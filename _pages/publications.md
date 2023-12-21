@@ -6,13 +6,13 @@ permalink: /publications/
 author_profile: false
 ---
 # 2023
-*Yihang Zheng, Chen Lin*, Xian Lyu, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. PIPA: Attacking Learning-based Index Advisors via a Probing-Injecting Framework. to appear in SIGMOD '24
+*Yihang Zheng, Chen Lin, Xian Lyu, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. PIPA: Attacking Learning-based Index Advisors via a Probing-Injecting Framework. to appear in SIGMOD '24
 
-*Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li, and Tianqing Wang*. TRAP: Tailored Robustness Assessment for Index Advisors via Adversarial Perturbation. to appear in ICDE '24
+*Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. TRAP: Tailored Robustness Assessment for Index Advisors via Adversarial Perturbation. to appear in ICDE '24
 
 *Ante Wang, Linfeng Song, Lifeng Jin, Junfeng Yao, Haitao Mi, Chen Lin, Jinsong Su, Dong Yu*, D2PSG: Multi-Party Dialogue Discourse Parsing as Sequence Generation, in IEEE/ACM Transactions on Audio, Speech, and Language Processing 2023(31):4004-4013 [pdf](https://XMUDM.github.io/files/Wang23D2PSG.pdf)
 
-*Xiaoqing Ru, Quan Zou, Chen Lin*. Optimization of drug-target affinity prediction methods through feature processing schemes. Bioinformatics 2023:btad615 [pdf](https://XMUDM.github.io/files/btad615.pdf)[code](https://github.com/RUXIAOQING964914140/FS_DTA)
+*Xiaoqing Ru, Quan Zou, Chen Lin*. Optimization of drug-target affinity prediction methods through feature processing schemes. Bioinformatics 2023:btad615 [pdf](https://XMUDM.github.io/files/btad615.pdf) [code](https://github.com/RUXIAOQING964914140/FS_DTA)
 
 *Shuai Fan, Jinping Gou, Yang Li, Jiaxing Bai, Chen Lin, Wanxian Guan, Xubin Li, Hongbo Deng, Jian Xu, and Bo Zheng*, BOMGraph: Boosting Multi-scenario E-commerce Search with a Unified Graph Neural Network. CIKM 2023:514-523 [pdf](https://XMUDM.github.io/files/Fan23BOMGraph.pdf)
 
@@ -22,7 +22,7 @@ author_profile: false
 
 *Guipeng Xv, Chen Lin, Wanxian Guan, Jinping Gou, Xubin Li, Hongbo Deng, Jian Xu, Bo Zheng*. E-commerce Search via Content Collaborative Graph Neural Network. KDD 2023: 2885-2897 [pdf](https://XMUDM.github.io/files/Xv2023KDD.pdf) [code](https://github.com/XMUDM/CC-GNN)
  
-*Zhenghao Lin, Yeyun Gong, yelong shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen*. Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise. ICML 2023:21051–21064[pdf](https://XMUDM.github.io/files/lin23icml.pdf) [code](https://github.com/microsoft/ProphetNet/tree/master/GENIE)
+*Zhenghao Lin, Yeyun Gong, yelong shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen*. Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise. ICML 2023:21051�?21064[pdf](https://XMUDM.github.io/files/lin23icml.pdf) [code](https://github.com/microsoft/ProphetNet/tree/master/GENIE)
 
 *Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder, and Nan Duan*, PROD: Progressive Distillation for Dense Retrieval. The Web Conference 2023:3299-3308  [pdf](https://XMUDM.github.io/files/Lin23PROD.pdf) 
 
@@ -44,7 +44,7 @@ _ _ _
 
 *Xinyi Liu, Wanxian Guan, Lianyun Li, Hui Li, Chen Lin, Xubin Li, Si Chen, Jian Xu, Hongbo Deng, Bo Zheng*. Pretraining Representations of Multi-modal Multi-query E-commerce Search. KDD 2022: 3429-3437 [pdf](https://XMUDM.github.io/files/Liu2022Pretraining.pdf) [code](https://github.com/XMUDM/MMsession)
 
-*Chen Lin, Dugang Liu, Yanghua Xiao, Hanghang Tong*. Spiral of Silence and Its Application in Recommender Systems. Transactions on Knowledge and Data Engineering 34(6)：2934-2947 [pdf](https://www.computer.org/csdl/journal/tk/5555/01/09158530/1m1eB9HLORa)  [code](https://github.com/XMUDM/TKDE19-Spiral-of-Silence)
+*Chen Lin, Dugang Liu, Yanghua Xiao, Hanghang Tong*. Spiral of Silence and Its Application in Recommender Systems. Transactions on Knowledge and Data Engineering 34(6): 2934-2947 [pdf](https://www.computer.org/csdl/journal/tk/5555/01/09158530/1m1eB9HLORa)  [code](https://github.com/XMUDM/TKDE19-Spiral-of-Silence)
 
 *Chen Lin, Junqing Zhuang, Jiadong Feng, Hui Li, Xuanhe Zhou, Guoliang Li*. Adaptive Code Learning for Spark Configuration Tuning. ICDE 2022: 1996-2008 [pdf](https://XMUDM.github.io/files/Lin2022Adaptive.pdf) [code](https://github.com/XMUDM/LITE)
 
@@ -52,9 +52,9 @@ _ _ _
 
 *Juan Ni, Zhenhua Huang, Yang Hu, Chen Lin*. A two-stage embedding model for recommendation with multimodal auxiliary information. Inf. Sci. 582: 22-37 
 
-*Jiacheng Wang, Quan Zou*, Chen Lin*. A comparison of deep learning-based pre-processing and clustering approaches for single-cell RNA sequencing data. Briefings in Bioinformatics. 2022, 23(1): bbab345
+*Jiacheng Wang, Quan Zou*, Chen Lin*. A comparison of deep learning-based pre-processing and clustering approaches for single-cell RNA sequencing data. Briefings in Bioinformatics. 2022, 23(1): bbab345 [pdf](https://XMUDM.github.io/files/comparison_bib.pdf)
 
-*Mengting Niu, Ying Ju, Chen Lin, Quan Zou*. Characterizing Viral circRNAs and their Application in Identifying CircRNAs in Viruses. Briefings in Bioinformatics. 2022, 23(1): bbab404
+*Mengting Niu, Ying Ju, Chen Lin, Quan Zou*. Characterizing Viral circRNAs and their Application in Identifying CircRNAs in Viruses. Briefings in Bioinformatics. 2022, 23(1): bbab404 [pdf](https://XMUDM.github.io/files/character_BIB.pdf)
 
 *Zequan Xu, Siqiang Luo, Jieming Shi, Hui Li, Chen Lin, Qihang Sun and Shaofeng Hu*. Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction. MDM 2022 [pdf](https://XMUDM.github.io/files/XU2022Efficiently.pdf) [code](https://github.com/XMUDM/BREAD)
 
@@ -66,13 +66,14 @@ _ _ _
 
 # 2021
 
-*Yansu Wang, Lei Xu, Quan Zou, Chen Lin*. prPred-DRLF: plant R protein predictor using deep representation learning features. Proteomics. 2021, 202100161 
+*Yansu Wang, Lei Xu, Quan Zou, Chen Lin*. prPred-DRLF: plant R protein predictor using deep representation learning features. Proteomics. 2021, 202100161 [pdf](https://XMUDM.github.io/files/prPred.pdf)
 
-*Mengting Niu, Quan Zou, Chen Lin*. CRBPDL: identification of circRNA-RBP interaction sites using an ensemble neural network approach. Plos Computational Biology. 
+*Mengting Niu, Quan Zou, Chen Lin*. CRBPDL: identification of circRNA-RBP interaction sites using an ensemble neural network approach. Plos Computational Biology. [pdf](https://XMUDM.github.io/files/CRBPDL-plosCB.pdf) 
 
-*Chao Wang, Ying Ju, Quan Zou, Chen Lin*. DeepAc4C: A convolutional neural network model with hybrid features composed of physico-chemical patterns and distributed representation information for identification of N4‑acetylcytidine in mRNA. Bioinformatics, btab611, https://doi.org/10.1093/bioinformatics/btab611 
+*Chao Wang, Ying Ju, Quan Zou, Chen Lin*. DeepAc4C: A convolutional neural network model with hybrid features composed of physico-chemical patterns and distributed representation information for identification of N4‑acetylcytidine in mRNA. Bioinformatics, btab611, https://doi.org/10.1093/bioinformatics/btab611 [pdf](https://XMUDM.github.io/files/DeepAc4c-Bioinformatics.pdf)
 
-*Xiaoqing Ru, Xiucai Ye, Tetsuya Sakurai, Quan Zou, Lei Xu, Chen Lin*. Current status and future prospects of drug–target interaction prediction. Briefings in Functional Genomics, elab031, https://doi.org/10.1093/bfgp/elab031
+*Xiaoqing Ru, Xiucai Ye, Tetsuya Sakurai, Quan Zou, Lei Xu, Chen Lin*. Current status and future prospects of drug-target interaction prediction. Briefings in Functional Genomics, elab031, https://doi.org/10.1093/bfgp/elab031 [pdf](https://XMUDM.github.io/files/current_bifg.pdf)
+
 
 *Shuai Fan, Chen Lin, Hui Li, Quan Zou*. News Popularity Prediction with Local-Global Long-Short-Term Embedding. WISE 2021: 79-93 
 
