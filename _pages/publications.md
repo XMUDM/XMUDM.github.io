@@ -22,7 +22,7 @@ author_profile: false
 
 *Guipeng Xv, Chen Lin, Wanxian Guan, Jinping Gou, Xubin Li, Hongbo Deng, Jian Xu, Bo Zheng*. E-commerce Search via Content Collaborative Graph Neural Network. KDD 2023: 2885-2897 [pdf](https://XMUDM.github.io/files/Xv2023KDD.pdf) [code](https://github.com/XMUDM/CC-GNN)
  
-*Zhenghao Lin, Yeyun Gong, yelong shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen*. Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise. ICML 2023:21051�?21064[pdf](https://XMUDM.github.io/files/lin23icml.pdf) [code](https://github.com/microsoft/ProphetNet/tree/master/GENIE)
+*Zhenghao Lin, Yeyun Gong, yelong shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen*. Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise. ICML 2023:21051鈥?21064[pdf](https://XMUDM.github.io/files/lin23icml.pdf) [code](https://github.com/microsoft/ProphetNet/tree/master/GENIE)
 
 *Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder, and Nan Duan*, PROD: Progressive Distillation for Dense Retrieval. The Web Conference 2023:3299-3308  [pdf](https://XMUDM.github.io/files/Lin23PROD.pdf) 
 
@@ -60,7 +60,7 @@ _ _ _
 
 *Zhenhua Huang, Shunzhi Yang, Zheng Gong, Abdullah Abusorrah, Chen Lin, Zhen Huang*. Making Accurate Object Detection at the Edge: Review and New Approach. Artificial Intelligence Review. 
 
-*Z. Huang, Y. Liu, C. Zhan, C. Lin, W. Cai and Y. Chen". A Novel Group Recommendation Model With Two-Stage Deep Learning," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2021.3131349.
+*Z. Huang, Y. Liu, C. Zhan, C. Lin, W. Cai, and Y. Chen". A Novel Group Recommendation Model With Two-Stage Deep Learning," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2021.3131349.
 
 _ _ _
 
@@ -70,14 +70,14 @@ _ _ _
 
 *Mengting Niu, Quan Zou, Chen Lin*. CRBPDL: identification of circRNA-RBP interaction sites using an ensemble neural network approach. Plos Computational Biology. [pdf](https://XMUDM.github.io/files/CRBPDL-plosCB.pdf) 
 
-*Chao Wang, Ying Ju, Quan Zou, Chen Lin*. DeepAc4C: A convolutional neural network model with hybrid features composed of physico-chemical patterns and distributed representation information for identification of N4‑acetylcytidine in mRNA. Bioinformatics, btab611, https://doi.org/10.1093/bioinformatics/btab611 [pdf](https://XMUDM.github.io/files/DeepAc4c-Bioinformatics.pdf)
+*Chao Wang, Ying Ju, Quan Zou, Chen Lin*. DeepAc4C: A convolutional neural network model with hybrid features composed of physico-chemical patterns and distributed representation information for identification of N4鈥慳cetylcytidine in mRNA. Bioinformatics, btab611, https://doi.org/10.1093/bioinformatics/btab611 [pdf](https://XMUDM.github.io/files/DeepAc4c-Bioinformatics.pdf)
 
 *Xiaoqing Ru, Xiucai Ye, Tetsuya Sakurai, Quan Zou, Lei Xu, Chen Lin*. Current status and future prospects of drug-target interaction prediction. Briefings in Functional Genomics, elab031, https://doi.org/10.1093/bfgp/elab031 [pdf](https://XMUDM.github.io/files/current_bifg.pdf)
 
 
 *Shuai Fan, Chen Lin, Hui Li, Quan Zou*. News Popularity Prediction with Local-Global Long-Short-Term Embedding. WISE 2021: 79-93 
 
-*Si Chen, Yuqiu Qian, Hui Li, Chen Lin*. Sequential Recommendation in Online Games with Multiple Sequences, Tasks and User Levels. SSTD 2021: 130-140 
+*Si Chen, Yuqiu Qian, Hui Li, Chen Lin*. Sequential Recommendation in Online Games with Multiple Sequences, Tasks, and User Levels. SSTD 2021: 130-140 
 
 *Yun Liang, Jian Zhang, Mei-hua Wang, Chen Lin, Jun Xiao*. Multi-features guided robust visual tracking.  Multim. Tools Appl. 80(11):16367-16395 
 
