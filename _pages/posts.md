@@ -6,6 +6,8 @@ permalink: /year-archive/
 locale: "zh-CN"
 author_profile: false
 ---
+<h3>2023年度实验室内部交流会</h3>
+<img src="/image/2023_exchange_meeting.png" width="100%">
 
 <h3>2023 CIKM</h3>
 数据挖掘领域知名会议CIKM 2023（CCF-B类）于2023年10月21日-25日在英国伯明翰举行。周炜同学代表实验室团队参加本次学术会议交流。
