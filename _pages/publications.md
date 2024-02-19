@@ -5,11 +5,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
-# 2023
+# 2024
+*Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Heung-Yeung Shum, Jian Guo*. Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph. to appear in ICLR '24
+
+*Zijia Wang, Haoran Liu, Chen Lin, Zhifeng Bao, Guoliang Li, Tianqing Wang*. Leveraging Dynamic and Heterogeneous Workload Knowledge to Boost the Performance of Index Advisors. to appear in VLDB '24
+
 *Yihang Zheng, Chen Lin, Xian Lyu, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. PIPA: Attacking Learning-based Index Advisors via a Probing-Injecting Framework. to appear in SIGMOD '24
 
 *Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. TRAP: Tailored Robustness Assessment for Index Advisors via Adversarial Perturbation. to appear in ICDE '24
 
+# 2023
 *Ante Wang, Linfeng Song, Lifeng Jin, Junfeng Yao, Haitao Mi, Chen Lin, Jinsong Su, Dong Yu*, D2PSG: Multi-Party Dialogue Discourse Parsing as Sequence Generation, in IEEE/ACM Transactions on Audio, Speech, and Language Processing 2023(31):4004-4013 [pdf](https://XMUDM.github.io/files/Wang23D2PSG.pdf)
 
 *Xiaoqing Ru, Quan Zou, Chen Lin*. Optimization of drug-target affinity prediction methods through feature processing schemes. Bioinformatics 2023:btad615 [pdf](https://XMUDM.github.io/files/btad615.pdf) [code](https://github.com/RUXIAOQING964914140/FS_DTA)
@@ -22,7 +27,7 @@ author_profile: false
 
 *Guipeng Xv, Chen Lin, Wanxian Guan, Jinping Gou, Xubin Li, Hongbo Deng, Jian Xu, Bo Zheng*. E-commerce Search via Content Collaborative Graph Neural Network. KDD 2023: 2885-2897 [pdf](https://XMUDM.github.io/files/Xv2023KDD.pdf) [code](https://github.com/XMUDM/CC-GNN)
  
-*Zhenghao Lin, Yeyun Gong, yelong shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen*. Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise. ICML 2023:21051鈥?21064[pdf](https://XMUDM.github.io/files/lin23icml.pdf) [code](https://github.com/microsoft/ProphetNet/tree/master/GENIE)
+*Zhenghao Lin, Yeyun Gong, yelong shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen*. Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise. ICML 2023:21051-21064[pdf](https://XMUDM.github.io/files/lin23icml.pdf) [code](https://github.com/microsoft/ProphetNet/tree/master/GENIE)
 
 *Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder, and Nan Duan*, PROD: Progressive Distillation for Dense Retrieval. The Web Conference 2023:3299-3308  [pdf](https://XMUDM.github.io/files/Lin23PROD.pdf) 
 
