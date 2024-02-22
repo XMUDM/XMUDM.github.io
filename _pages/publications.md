@@ -101,7 +101,7 @@ _ _ _
 
 *Chen Lin, Zhichao Ouyang, Hui Li, Zhenghua Huang*. Preserve Integrity in Realtime Event Summarization. Transactions on Knowledge Discovery from Data 15(3):1-29 [pdf](https://XMUDM.github.io/files/TKDD-IAEA.pdf) [code](https://github.com/XMUDM/IAEA)
 
-*Chen Lin, Si Chen, Hui Li, Yanghua Xiao, Lianyun Li, Qian Yang*. Attacking Recommender Systems with Augmented User Profiles. CIKM 2020: 855-864.[pdf](https://dl.acm.org/doi/10.1145/3340531.3411884) [code](https://github.com/XMUDM/AUSH)
+*Chen Lin, Si Chen, Hui Li, Yanghua Xiao, Lianyun Li, Qian Yang*. Attacking Recommender Systems with Augmented User Profiles. CIKM 2020: 855-864.[pdf](https://XMUDM.github.io/files/AUSH.pdf) [code](https://github.com/XMUDM/AUSH)
 
 *Wenqiang Chen, Lizhang Zhan, Yuanlong Ci, Minghua Yang, Chen Lin, Dugang Liu*. FLEN: Leveraging Field for Scalable CTR Prediction  DLP-KDD 2020 
 
