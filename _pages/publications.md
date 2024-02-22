@@ -88,7 +88,7 @@ _ _ _
 
 *Chen Lin, Xinyi Liu, Guipeng Xv, Hui Li*. Mitigating Sentiment Bias for Recommender Systems. SIGIR 2021: 31-40 [pdf](https://XMUDM.github.io/files/Lin2021Mitigating.pdf)
 
-*Hui Li, Lianyun Li, Chen Lin*. SPEX: A Generic Framework for Enhancing Neural Social Recommendation. Transactions on Information Systems :40(2):1-33 [pdf](https://XMUDM.github.io/files/Li2021SPEX.pdf) [code](https://github.com/XMUDM/SPEX)
+*Hui Li, Lianyun Li, Chen Lin, Ke Li, Bingchuan Jiang*. SPEX: A Generic Framework for Enhancing Neural Social Recommendation. Transactions on Information Systems :40(2):1-33 [pdf](https://XMUDM.github.io/files/Li2021SPEX.pdf) [code](https://github.com/XMUDM/SPEX)
 
 *Chen Lin, Zhichao Ouyang, Junqing Zhuang, Jianqiang Chen, Hui Li, Rongxin Wu*. Improving Code Summarization with Block-wise Abstract Syntax Tree Splitting. ICPC 2021: 184-195 [pdf](https://XMUDM.github.io/files/Lin21ICPC.pdf)
 
