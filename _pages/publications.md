@@ -43,9 +43,9 @@ _ _ _
 *Guipeng Xv, Si Chen, Chen Lin, Wanxian Guan, Xingyuan Bu, Xubin Li, Hongbo Deng, Jian Xu, Bo Zheng*. Visual Encoding and Debiasing for CTR Prediction. CIKM 2022: 4615-4619
 [pdf](https://XMUDM.github.io/files/Xv22Visual.pdf)
 
-*Zequan Xu, Qihang Sun, Shaofeng Hu, Jiguang Qiu, Chen Lin, Hui Li*. Multi-View Heterogeneous Temporal Graph Neural Network for ''Click Farming'' Detection. PRICAI 2022 [pdf](https://XMUDM.github.io/files/Xu22PRCAI.pdf)
+*Zequan Xu, Qihang Sun, Shaofeng Hu, Jiguang Qiu, Chen Lin, Hui Li*. Multi-View Heterogeneous Temporal Graph Neural Network for ''Click Farming'' Detection. PRICAI 2022: 148-160 [pdf](https://XMUDM.github.io/files/Xu22PRCAI.pdf)
 
-*Chen Lin, Si Chen, Meifang Zeng, Sheng Zhang, Gao Min, Jiguang Qiu, Hui Li*. Shilling Black-box Recommender Systems by Learning to Generate Fake User Profiles. IEEE Transactions on Neural Networks and Learning Systems. [pdf](https://XMUDM.github.io/files/Lin2023LegUP.pdf)  [code](https://github.com/XMUDM/ShillingAttack)
+*Chen Lin, Si Chen, Meifang Zeng, Sheng Zhang, Gao Min, Jiguang Qiu, Hui Li*. Shilling Black-box Recommender Systems by Learning to Generate Fake User Profiles. IEEE Transactions on Neural Networks and Learning Systems. 35(1): 1305-1319 [pdf](https://XMUDM.github.io/files/Lin2023LegUP.pdf)  [code](https://github.com/XMUDM/ShillingAttack)
 
 *Xinyi Liu, Wanxian Guan, Lianyun Li, Hui Li, Chen Lin, Xubin Li, Si Chen, Jian Xu, Hongbo Deng, Bo Zheng*. Pretraining Representations of Multi-modal Multi-query E-commerce Search. KDD 2022: 3429-3437 [pdf](https://XMUDM.github.io/files/Liu2022Pretraining.pdf) [code](https://github.com/XMUDM/MMsession)
 
