@@ -105,7 +105,7 @@ _ _ _
 
 *Wenqiang Chen, Lizhang Zhan, Yuanlong Ci, Minghua Yang, Chen Lin, Dugang Liu*. FLEN: Leveraging Field for Scalable CTR Prediction  DLP-KDD 2020 
 
-*Yunsen Hong, Hui Li, Xiaoli Wang, Chen Lin*. DEAMER: a Deep Exposure-Aware Multimodal Content-based Recommendation System. DASFAA 2020: 621-637. [pdf](https://link.springer.com/chapter/10.1007%2F978-3-030-59419-0_38) [code](https://github.com/XMUDM/Deamer)
+*Yunsen Hong, Hui Li, Xiaoli Wang, Chen Lin*. DEAMER: a Deep Exposure-Aware Multimodal Content-based Recommendation System. DASFAA 2020: 621-637. [pdf](https://XMUDM.github.io/files/DEAMER.pdf) [code](https://github.com/XMUDM/Deamer)
 
 *Yuyou Weng, Xinyi Liu, Hui Li, Chen Lin, Yun Liang*. Drug target interaction prediction via multi-task co-attention. International Data Mining and Bioinformatics, 24(2):160-176. 2020 [pdf](https://www.inderscience.com/offer.php?id=110158)
 
