@@ -75,7 +75,7 @@ _ _ _
 
 *Mengting Niu, Quan Zou, Chen Lin*. CRBPDL: identification of circRNA-RBP interaction sites using an ensemble neural network approach. Plos Computational Biology. [pdf](https://XMUDM.github.io/files/CRBPDL-plosCB.pdf) 
 
-*Chao Wang, Ying Ju, Quan Zou, Chen Lin*. DeepAc4C: A convolutional neural network model with hybrid features composed of physico-chemical patterns and distributed representation information for identification of N4鈥慳cetylcytidine in mRNA. Bioinformatics, btab611, https://doi.org/10.1093/bioinformatics/btab611 [pdf](https://XMUDM.github.io/files/DeepAc4c-Bioinformatics.pdf)
+*Chao Wang, Ying Ju, Quan Zou, Chen Lin*. DeepAc4C: A convolutional neural network model with hybrid features composed of physico-chemical patterns and distributed representation information for identification of N4-cetylcytidine in mRNA. Bioinformatics, btab611, https://doi.org/10.1093/bioinformatics/btab611 [pdf](https://XMUDM.github.io/files/DeepAc4c-Bioinformatics.pdf)
 
 *Xiaoqing Ru, Xiucai Ye, Tetsuya Sakurai, Quan Zou, Lei Xu, Chen Lin*. Current status and future prospects of drug-target interaction prediction. Briefings in Functional Genomics, elab031, https://doi.org/10.1093/bfgp/elab031 [pdf](https://XMUDM.github.io/files/current_bifg.pdf)
 
@@ -90,7 +90,7 @@ _ _ _
 
 *Hui Li, Lianyun Li, Chen Lin*. SPEX: A Generic Framework for Enhancing Neural Social Recommendation. Transactions on Information Systems :40(2):1-33 [pdf](https://XMUDM.github.io/files/Li2021SPEX.pdf) [code](https://github.com/XMUDM/SPEX)
 
-*Chen Lin, Zhichao Ouyang, Junqing Zhuang, Jianqiang Chen, Hui Li, Rongxin Wu*. Improving Code Summarization with Block-wise Abstract Syntax Tree Splitting. ICPC 2021: 184-195 
+*Chen Lin, Zhichao Ouyang, Junqing Zhuang, Jianqiang Chen, Hui Li, Rongxin Wu*. Improving Code Summarization with Block-wise Abstract Syntax Tree Splitting. ICPC 2021: 184-195 [pdf](https://XMUDM.github.io/files/Lin21ICPC.pdf)
 
 *Yunsen Hong, Hui Li, Yanghua Xiao, Ryan McBride, Chen Lin*. SILVER: Generating Persuasive Chinese Product Pitch. PAKDD 2021: 652-663 
 
