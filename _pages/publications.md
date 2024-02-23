@@ -63,9 +63,9 @@ _ _ _
 
 *Zequan Xu, Siqiang Luo, Jieming Shi, Hui Li, Chen Lin, Qihang Sun and Shaofeng Hu*. Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction. MDM 2022 [pdf](https://XMUDM.github.io/files/XU2022Efficiently.pdf) [code](https://github.com/XMUDM/BREAD)
 
-*Zhenhua Huang, Shunzhi Yang, Zheng Gong, Abdullah Abusorrah, Chen Lin, Zhen Huang*. Making Accurate Object Detection at the Edge: Review and New Approach. Artificial Intelligence Review. 
+*Zhenhua Huang, Shunzhi Yang, Zheng Gong, Abdullah Abusorrah, Chen Lin, Zhen Huang*. Making Accurate Object Detection at the Edge: Review and New Approach. Artificial Intelligence Review. 55(2): 2245–2274, 2022.
 
-*Z. Huang, Y. Liu, C. Zhan, C. Lin, W. Cai, and Y. Chen". A Novel Group Recommendation Model With Two-Stage Deep Learning," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2021.3131349.
+*Zhenhua Huang, Yajun Liu, Choujun Zhan, Chen Lin, Weiwei Cai, Yunwen Chen*. A Novel Group Recommendation Model With Two-Stage Deep Learning. IEEE Transactions on Systems, Man, and Cybernetics: Systems. 52(9): 5853-5864, 2022.
 
 _ _ _
 
