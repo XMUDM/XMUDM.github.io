@@ -6,6 +6,8 @@ permalink: /publications/
 author_profile: false
 ---
 # 2024
+*Jiashuo Sun, Hang Zhang, Chen Lin, Xiangdong Su, Yeyun Gong, Jian Guo*. APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning. to appear in LREC-COLING '24 
+
 *Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li*. Breaking It Down: An In-depth Study of Index Advisors \[EA&B\]. to appear in VLDB '24
 
 *Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Heung-Yeung Shum, Jian Guo*. Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph. to appear in ICLR '24
