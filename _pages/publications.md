@@ -6,9 +6,15 @@ permalink: /publications/
 author_profile: false
 ---
 # 2024
+*Yang Li, Qiao Zhao, Chen Lin, Zhenjie Zhang, Xiaomin Zhu, Jinsong Su*. GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training. to appear in DASFAA '24
+
+*Yi Luo, Zhenghao Lin, YuHao Zhang, Jiashuo Sun, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong*. Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models. to appear in NAACL '24
+
+*Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan*. Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models. to appear in NAACL '24
+
 *Jiashuo Sun, Hang Zhang, Chen Lin, Xiangdong Su, Yeyun Gong, Jian Guo*. APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning. to appear in LREC-COLING '24 
 
-*Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li*. Breaking It Down: An In-depth Study of Index Advisors \[EA&B\]. to appear in VLDB '24
+*Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li*. Breaking It Down: An In-depth Study of Index Advisors. to appear in VLDB '24
 
 *Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Heung-Yeung Shum, Jian Guo*. Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph. to appear in ICLR '24
 
