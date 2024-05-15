@@ -14,6 +14,8 @@ author_profile: false
 
 *Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan*. Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models. to appear in NAACL '24
 
+*Xingwei He, Zhenghao Lin, Yeyun Gong, A-Long Jin, Hang Zhang, Chen Lin, Jian Jiao, Siu Ming Yiu, Nan Duan, Weizhu Chen*. AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators. to appear in NAACL '24
+
 *Jiashuo Sun, Hang Zhang, Chen Lin, Xiangdong Su, Yeyun Gong, Jian Guo*. APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning. to appear in LREC-COLING '24 
 
 *Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li*. Breaking It Down: An In-depth Study of Index Advisors. to appear in VLDB '24
@@ -25,6 +27,8 @@ author_profile: false
 *Yihang Zheng, Chen Lin, Xian Lyu, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. PIPA: Attacking Learning-based Index Advisors via a Probing-Injecting Framework. to appear in SIGMOD '24
 
 *Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. TRAP: Tailored Robustness Assessment for Index Advisors via Adversarial Perturbation. to appear in ICDE '24
+
+*Yan Miao, Zhenyuan Sun, Chenjing Ma, Chen Lin, Guohua Wang, Chunxue Yang*. VirGrapher: A Graph-based Viral Identifier for Long Sequences from Metagenomes. Brief Bioinform. 2024 Jan 22;25(2):bbae036
 
 # 2023
 *Ante Wang, Linfeng Song, Lifeng Jin, Junfeng Yao, Haitao Mi, Chen Lin, Jinsong Su, Dong Yu*, D2PSG: Multi-Party Dialogue Discourse Parsing as Sequence Generation, in IEEE/ACM Transactions on Audio, Speech, and Language Processing 2023(31):4004-4013 [pdf](https://XMUDM.github.io/files/Wang23D2PSG.pdf)
