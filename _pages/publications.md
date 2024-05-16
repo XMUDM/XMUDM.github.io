@@ -6,6 +6,8 @@ permalink: /publications/
 author_profile: false
 ---
 # 2024
+*Yiming Huang, Zhenghao Lin, Xiao Liu, Yeyun Gong, Shuai Lu, Fangyu Lei, Yaobo Liang, Yelong Shen, Chen Lin, Nan Duan, Weizhu Chen*. Competition-Level Problems are Effective LLM Evaluators. to appear in ACL `24
+
 *Yang Li, Qi'Ao Zhao, Chen Lin, Jinsong Su, Zhilin Zhang*. Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems. to appear in SIGIR '24
 
 *Yang Li, Qiao Zhao, Chen Lin, Zhenjie Zhang, Xiaomin Zhu, Jinsong Su*. GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training. to appear in DASFAA '24
