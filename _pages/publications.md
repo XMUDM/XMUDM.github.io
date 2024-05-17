@@ -6,6 +6,8 @@ permalink: /publications/
 author_profile: false
 ---
 # 2024
+*Guipeng Xv, Xinyu Li, Ruobing Xie, Chen Lin, Chong Liu, Feng Xia, Zhanhui Kang, Leyu Lin*. Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback. to appear in KDD '24
+
 *Yiming Huang, Zhenghao Lin, Xiao Liu, Yeyun Gong, Shuai Lu, Fangyu Lei, Yaobo Liang, Yelong Shen, Chen Lin, Nan Duan, Weizhu Chen*. Competition-Level Problems are Effective LLM Evaluators. to appear in ACL `24
 
 *Yang Li, Qi'Ao Zhao, Chen Lin, Jinsong Su, Zhilin Zhang*. Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems. to appear in SIGIR '24
