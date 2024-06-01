@@ -232,6 +232,8 @@ author_profile: false
 | 2019 | 柳心怡 | 快手 |
 | 2019 | 庄俊清 | 阿里巴巴 |
 | 2020 | 范帅 | 小米 |
+| 2021 | 孙嘉硕 | 上海AI Lab |
+| 2021 | 周炜 | 华为 |
 
 <!--  
   <table class="graduate" align="center" width="80%">

@@ -6,6 +6,10 @@ permalink: /year-archive/
 locale: "zh-CN"
 author_profile: false
 ---
+<h3>2024 ICDE</h3>
+实验室成员周炜同学在ICDE 2024（CCF-A类）会议上成功发表了他的研究工作《TRAP: Tailored Robustness Assessment for Index Advisors via Adversarial Perturbation.》。该会议于2024年5月14日在荷兰乌德勒支举办，是数据挖掘领域最具影响力的学术盛会之一。本次参会不仅展示了我们的科研成果，还为实验室提供了一个宝贵的平台，与全球顶尖的学者和研究机构进行深度交流与合作。
+<img src="/image/2024_ICDE.jpg" width="100%">
+
 <h3>2023年度实验室内部交流会</h3>
 <img src="/image/2023_exchange_meeting.png" width="100%">
 
