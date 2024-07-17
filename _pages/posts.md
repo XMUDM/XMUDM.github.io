@@ -6,6 +6,10 @@ permalink: /year-archive/
 locale: "zh-CN"
 author_profile: false
 ---
+<h3>2024 SIGMOD</h3>
+实验室成员郑祎航同学于2024年6月9日-6月14日参加了在智利圣地亚戈举办的2024年SIGMOD（CCF-A类）国际会议， 并在会议上展示了其最新的研究成果《PIPA: Robustness of Updatable Learning-based Index Advisors against Poisoning Attack》。SIGMOD是数据库领域研究的国际顶级会议，汇聚了全球最前沿的研究成果和业界专家，这是实验室在数据库领域取得的重要进展，同时也为我们实验室在国际学术界赢得了更多关注和认可。
+<img src="/image/2024_SIGMOD.jpg" width="100%">
+
 <h3>热烈祝贺两位毕业生顺利通过硕士论文答辩并获得优秀毕业论文</h3>
 热烈祝贺孙嘉硕同学和周炜同学顺利通过硕士论文答辩，并且荣获优秀毕业论文表彰！两位同学在读期间取得了丰富的科研成果，展示了卓越的学术能力和不懈的努力。孙嘉硕同学在读期间共发表了4篇学术成果，包括CCF-A类1篇，CCF-B类2篇，CCF-C类1篇；周炜同学在读期间共发表了3篇学术成果，包括CCF-A类2篇，CCF-B类1篇。在此，我们向孙嘉硕同学和周炜同学表示衷心的祝贺！祝愿你们在未来的学术道路上继续勇攀高峰，在各自的领域中取得更加辉煌的成就！
 <img src="/image/24_graduation.jpg" width="100%">
