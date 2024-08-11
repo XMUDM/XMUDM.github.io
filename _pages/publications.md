@@ -6,11 +6,13 @@ permalink: /publications/
 author_profile: false
 ---
 # 2024
+*Qiwen Wang, Chen Lin, Wei Su, Liang Xiao, Xiangxiang Zeng*. Compound-Protein Interaction Prediction with Sparse Perturbation-Aware Attention. ICIC (LNBI 2) 2024: 72-83 [pdf](https://XMUDM.github.io/files/Wang24SPACPI.pdf) [code](https://github.com/xmudm/spacpi) [Best Paper Award](https://XMUDM.github.io/files/Wang24best.jpg)
+
 *Guipeng Xv, Xinyu Li, Ruobing Xie, Chen Lin, Chong Liu, Feng Xia, Zhanhui Kang, Leyu Lin*. Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback. to appear in KDD '24
 
 *Yiming Huang, Zhenghao Lin, Xiao Liu, Yeyun Gong, Shuai Lu, Fangyu Lei, Yaobo Liang, Yelong Shen, Chen Lin, Nan Duan, Weizhu Chen*. Competition-Level Problems are Effective LLM Evaluators. to appear in ACL `24
 
-*Yang Li, Qi'Ao Zhao, Chen Lin, Jinsong Su, Zhilin Zhang*. Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems. to appear in SIGIR '24
+*Yang Li, Qi'Ao Zhao, Chen Lin, Jinsong Su, Zhilin Zhang*. Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems. SIGIR 2024: 667-676 
 
 *Yang Li, Qiao Zhao, Chen Lin, Zhenjie Zhang, Xiaomin Zhu, Jinsong Su*. GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training. to appear in DASFAA '24
 
