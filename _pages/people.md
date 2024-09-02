@@ -197,35 +197,35 @@ author_profile: false
 <table  width="100%" border="0" style="margin-left: 50px">
   <tbody>
     <tr>
-      <td>
+      <td valign="bottom">
 		<div align="center">
 		  <img src="/image/chenkehan.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">陈可涵</div>
 		<div align="center">2024级</div>
 	  </td>
-	<td>
+	<td valign="bottom">
 	<div align="center">
 		<img src="/image/leijixiang.jpg" width="150" height="210" style="height: 210;"/>
 	</div>
 	<div align="center" style="font-weight: bold">雷继翔</div>
 	<div align="center">2024级</div>
 	</td>
-    <td>
+    <td valign="bottom">
 		<div align="center">
 		  <img src="/image/libo.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">李波</div>
 		<div align="center">2024级</div>
 	</td>
-	<td>
+	<td valign="bottom">
 		<div align="center">
 		  <img src="/image/liuyi.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">刘羿</div>
 		<div align="center">2024级</div>
 	</td>
-	<td>
+	<td valign="bottom">
 		<div align="center">
 		  <img src="/image/shiyuntao.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
