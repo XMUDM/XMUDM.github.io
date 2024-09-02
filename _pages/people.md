@@ -74,16 +74,10 @@ author_profile: false
 
 <div>
   <h3>Doctoral Students</h3>
-  <table border="0" style="margin-left: 50px" width="100%">
+  
+<table border="0" style="margin-left: 50px" width="100%">
   <tbody>
     <tr>
-      <td>
-		<div align="center">
-		  <img src="/image/baijiaxing.jpg" width="150" height="210" style="height: 210;"/>
-		</div>
-		<div align="center" style="font-weight: bold">白佳兴</div>
-		<div align="center">2022级</div>
-	  </td>
       <td>
 		<div align="center">
 		<img src="/image/xuguipeng.jpg" width="150" height="210" style="height: 210;" alt=""/> </div>
@@ -99,31 +93,30 @@ author_profile: false
     </tr>
   </tbody>
 </table>
-</div>
 
-<div>
-    <h3>Master Students</h3>
-  <table border="0" style="margin-left: 50px; margin-bottom: 20px" width="100%">
+<table border="0" style="margin-left: 50px" width="100%">
   <tbody>
     <tr>
+    	<td>
+		<div align="center">
+		<img src="/image/liuli.jpg" width="150" height="210" style="height: 210;" alt=""/> </div>
+		<div align="center" style="font-weight: bold">刘莉</div>
+		<div align="center">2024级</div>
+	  </td>
       <td>
 		<div align="center">
-		  <img src="/image/sunjiashuo.jpg" width="150" height="210" style="height: 210;"/>
-		</div>
-		<div align="center" style="font-weight: bold">孙嘉硕</div>
-		<div align="center">2021级</div>
-	  </td>
-	  <td>
-		<div align="center">
-		  <img src="/image/zhouwei.jpg" width="150" height="210" style="height: 210;"/>
-		</div>
-		<div align="center" style="font-weight: bold" style="height: 210;">周炜</div>
-		<div align="center">2021级</div>
+		<img src="/image/gaoshang.jpg" width="150" height="210" style="height: 210;" alt=""/> </div>
+		<div align="center" style="font-weight: bold">高尚</div>
+		<div align="center">2024级</div>
 	  </td>
     </tr>
   </tbody>
 </table>
+</div>
 
+<div>
+    <h3>Master Students</h3>
+  
 <table width="100%" border="0" style="margin-left: 50px; margin-bottom: 20px">
   <tbody>
     <tr>
@@ -200,6 +193,48 @@ author_profile: false
     </tr>
   </tbody>
 </table>
+
+<table  width="100%" border="0" style="margin-left: 50px">
+  <tbody>
+    <tr>
+      <td>
+		<div align="center">
+		  <img src="/image/chenkehan.jpg" width="150" height="210" style="height: 210;"/>
+		</div>
+		<div align="center" style="font-weight: bold">陈可涵</div>
+		<div align="center">2024级</div>
+	  </td>
+	<td>
+	<div align="center">
+		<img src="/image/leijixiang.jpg" width="150" height="210" style="height: 210;"/>
+	</div>
+	<div align="center" style="font-weight: bold">雷继翔</div>
+	<div align="center">2024级</div>
+	</td>
+    <td>
+		<div align="center">
+		  <img src="/image/libo.jpg" width="150" height="210" style="height: 210;"/>
+		</div>
+		<div align="center" style="font-weight: bold">李波</div>
+		<div align="center">2024级</div>
+	</td>
+	<td>
+		<div align="center">
+		  <img src="/image/liuyi.jpg" width="150" height="210" style="height: 210;"/>
+		</div>
+		<div align="center" style="font-weight: bold">刘羿</div>
+		<div align="center">2024级</div>
+	</td>
+	<td>
+		<div align="center">
+		  <img src="/image/shiyuntao.jpg" width="150" height="210" style="height: 210;"/>
+		</div>
+		<div align="center" style="font-weight: bold">侍云涛</div>
+		<div align="center">2024级</div>
+	  </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 
@@ -232,7 +267,7 @@ author_profile: false
 | 2019 | 柳心怡 | 快手 |
 | 2019 | 庄俊清 | 阿里巴巴 |
 | 2020 | 范帅 | 小米 |
-| 2021 | 孙嘉硕 | 上海AI Lab |
+| 2021 | 孙嘉硕 | 阿里达摩院 |
 | 2021 | 周炜 | 华为 |
 
 <!--  
