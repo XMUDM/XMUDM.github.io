@@ -69,7 +69,7 @@ author_profile: false
 4. LLM 4 Bioinformatics
 主要研究生物数据大语言模型、利用大语言模型的生物医学文献挖掘、生物信息处理等
 
-主要合作导师：[韩家淮](https://hanlab.xmu.edu.cn/)[宫叶云](https://www.microsoft.com/en-us/research/people/yegong/#:~:text=Dr.%20Yeyun%20Gong%20is%20a%20principal%20research%20manager?msockid=383090560f1265ff0623807a0b126799) [曾湘祥](http://csee.hnu.edu.cn/people/zengxiangxiang#:~:text=%E6%9B%BE%E6%B9%98%E7%A5%A5-%E6%B9%96%E5%A4%A7%E4%BF%A1%E6%81%AF) 
+主要合作导师：[韩家淮](https://hanlab.xmu.edu.cn/) [宫叶云](https://www.microsoft.com/en-us/research/people/yegong/#:~:text=Dr.%20Yeyun%20Gong%20is%20a%20principal%20research%20manager?msockid=383090560f1265ff0623807a0b126799) [曾湘祥](http://csee.hnu.edu.cn/people/zengxiangxiang#:~:text=%E6%9B%BE%E6%B9%98%E7%A5%A5-%E6%B9%96%E5%A4%A7%E4%BF%A1%E6%81%AF) 
 
 主要合作企业：微软亚洲研究院
 
@@ -97,7 +97,9 @@ author_profile: false
 4. 在参加本实验室内部面试前，请确认报考的其他导师（包括厦大的和其他学校的）的回复情况。
 5. 如果面试通过，在和导师沟通时，承诺如实陈述报考意愿（包括但不限于是否有更心仪的院校、是否还在等其他导师回复、是否家长支持、是否能马上入组、是否考公等）。
 
+---
 *来自导师的话*
+---
 
 作为导师，我很理解同学想要给自己保留更多选择的权利，我也尽量给同学提供尝试的机会。我本人做人做事坦坦荡荡，真诚对待学生，也希望学生真诚对我。如实说明情况，并不一定丧失机会。例如2023年我就为调剂学生一直保留着名额，最后虽然由于客观情况他们没能入学导致我的名额浪费了，但这是我事先了解的，我愿意为此承担风险。但是，近年来每年都会经历奇葩的放鸽子事件，在我再三确认情况的时候蓄意欺骗，不仅浪费了实验室研究生的时间和精力，浪费了我的名额，对当事人其实也没有任何好处（与其花费时间在一个并不想去的地方，不如早点集中精力攻关自己的梦想）。因此，我希望所有报考同学珍视自己的信誉。
 
