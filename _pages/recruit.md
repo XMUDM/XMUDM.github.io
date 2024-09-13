@@ -49,7 +49,7 @@ author_profile: false
 实验室目前有三个主要方向：
 
 1. AI4DB
-主要研究如何利用机器学习技术优化数据库系统。[综述](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/joc19-ai4db-cn.pdf#:~:text=%E6%9D%8E%E5%9B%BD%E8%89%AF(%E9%80%9A%E4%BF%A1%E4%BD%9C%E8%80%85)
+主要研究如何利用机器学习技术优化数据库系统。[综述](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/joc19-ai4db-cn.pdf)
 
 主要合作导师包括：[李国良](https://dbgroup.cs.tsinghua.edu.cn/ligl/index_cn.html#:~:text=%E6%9D%8E%E5%9B%BD%E8%89%AF%EF%BC%8C%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6) [鲍芝峰](https://baozhifeng.net/#:~:text=Zhifeng%20Bao.%20I%20lead%20the%20Big%20Data%20and)
 
