@@ -6,6 +6,16 @@ permalink: /year-archive/
 locale: "zh-CN"
 author_profile: false
 ---
+
+<h3>2024 KDD</h3>
+KDD（ACM SIGKDD Conference on Knowledge Discovery and Data Mining）是数据挖掘领域历史最悠久、规模最大的国际顶级学术会议之一。2024年第30届KDD大会于8月25日至29日在西班牙巴塞罗那盛大举行，汇聚了全球数据挖掘和人工智能领域的顶尖专家和学者。
+实验室成员徐桂鹏同学受邀参加了此次盛会，并在大会上展示了最新研究成果——《Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback》。该研究针对多模态推荐系统中存在的三大挑战：多模态内容噪声、用户反馈噪声以及多模态内容与用户反馈的对齐问题，创新性地提出了DA-MRS框架，有效应对了这些挑战。该成果在大会上引起了广泛关注和高度评价，充分展示了实验室在多模态推荐系统研究领域的学术水平。
+<img src="/image/24_KDD.jpg" width="100%">
+
+<h3>2024 VLDB</h3>
+作为数据库领域最具影响力的国际学术会议之一，第50届VLDB大会于2024年8月25日至29日在广州隆重举行，汇聚了全球数据库研究的顶尖专家和学者。我实验室成员周炜、王子佳同学受邀参加了此次盛会。周炜同学在大会上展示了其最新研究成果《Breaking It Down: An In-depth Study of Index Advisors》，深入探讨了索引建议器的核心机制和优化策略。王子佳同学在大会上展示了其最新研究成果《Leveraging Dynamic and Heterogeneous Workload Knowledge to Boost the Performance of Index Advisors》，针对动态和异构的工作负载，提出了提升索引建议器性能的新方法。他们的研究成果在大会上引起了广泛关注和高度评价，充分展示了我实验室在数据库研究领域的卓越实力和创新能力。
+<img src="/image/24_VLDB.jpg" width="100%">
+
 <h3>2024 SIGIR</h3>
 信息检索领域的顶级会议SIGIR于2024年7月14日-7月18日在美国华盛顿隆重举行。实验室硕士研究生黎洋同学受邀参会，并在大会上展示了其最新研究成果《Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems》。黎洋同学本篇工作的研究专注于解决多模态推荐系统（MRSs）中多模态内容特征与ID嵌入对齐方向的问题，提出了一个创新的框架——FETTLE，获得了与会专家的高度关注与认可。
 <img src="/image/2024_SIGIR.jpg" width="100%">

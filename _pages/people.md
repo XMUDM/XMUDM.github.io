@@ -232,6 +232,13 @@ author_profile: false
 		<div align="center" style="font-weight: bold">侍云涛</div>
 		<div align="center">2024级</div>
 	  </td>
+	  <td>
+		<div align="center">
+		  <img src="/image/xiezhehan.jpg" width="150" height="210" style="height: 210;"/>
+		</div>
+		<div align="center" style="font-weight: bold">谢哲涵</div>
+		<div align="center">2024级</div>
+	  </td>
     </tr>
   </tbody>
 </table>
