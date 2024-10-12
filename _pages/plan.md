@@ -4,6 +4,12 @@ classes: wide
 title: "招生"
 permalink: /teaching/plan/
 author_profile: false
+comments: true
+toc: true
+toc_label: "目录"
+toc_icon: "cog"
+toc_sticky: true
+breadcrumbs: true 
 ---
 # 入学教育
 
