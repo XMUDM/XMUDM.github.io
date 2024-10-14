@@ -6,6 +6,9 @@ permalink: /year-archive/
 locale: "zh-CN"
 author_profile: false
 ---
+<h3>2024-2025秋季学期迎新活动</h3>
+<br>
+<img src="/image/24_hongpa.png" width="100%"  alt=""/>
 
 <h3>2024 KDD</h3>
 KDD（ACM SIGKDD Conference on Knowledge Discovery and Data Mining）是数据挖掘领域历史最悠久、规模最大的国际顶级学术会议之一。2024年第30届KDD大会于8月25日至29日在西班牙巴塞罗那盛大举行，汇聚了全球数据挖掘和人工智能领域的顶尖专家和学者。
