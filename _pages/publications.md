@@ -7,7 +7,7 @@ author_profile: false
 ---
 
 # 2024
-*Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen*. Rho-1: Not All Tokens Are What You Need. to appear in NeuIPS 2024 [Best Paper Runnerup]
+*Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen*. Rho-1: Not All Tokens Are What You Need. to appear in NeurIPS 2024 [Best Paper Runnerup]
 
 *Qiwen Wang, Chen Lin, Wei Su, Liang Xiao, Xiangxiang Zeng*. Compound-Protein Interaction Prediction with Sparse Perturbation-Aware Attention. ICIC (LNBI 2) 2024: 72-83 [pdf](https://XMUDM.github.io/files/Wang24SPACPI.pdf) [code](https://github.com/xmudm/spacpi) [Best Paper Award](https://XMUDM.github.io/files/Wang24best.jpg)
 
@@ -35,7 +35,7 @@ author_profile: false
 
 *Yihang Zheng, Chen Lin, Xian Lyu, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. PIPA: Attacking Learning-based Index Advisors via a Probing-Injecting Framework. to appear in SIGMOD '24
 
-*Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. TRAP: Tailored Robustness Assessment for Index Advisors via Adversarial Perturbation. to appear in ICDE '24
+*Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. TRAP: Tailored Robustness Assessment for Index Advisors via Adversarial Perturbation. ICDE 2024: 42-55
 
 *Yan Miao, Zhenyuan Sun, Chenjing Ma, Chen Lin, Guohua Wang, Chunxue Yang*. VirGrapher: A Graph-based Viral Identifier for Long Sequences from Metagenomes. Brief Bioinform. 2024 Jan 22;25(2):bbae036
 
