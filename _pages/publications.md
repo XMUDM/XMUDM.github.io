@@ -5,26 +5,29 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+
 # 2024
+*Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen*. Rho-1: Not All Tokens Are What You Need. to appear in NeuIPS 2024 [Best Paper Runnerup]
+
 *Qiwen Wang, Chen Lin, Wei Su, Liang Xiao, Xiangxiang Zeng*. Compound-Protein Interaction Prediction with Sparse Perturbation-Aware Attention. ICIC (LNBI 2) 2024: 72-83 [pdf](https://XMUDM.github.io/files/Wang24SPACPI.pdf) [code](https://github.com/xmudm/spacpi) [Best Paper Award](https://XMUDM.github.io/files/Wang24best.jpg)
 
-*Guipeng Xv, Xinyu Li, Ruobing Xie, Chen Lin, Chong Liu, Feng Xia, Zhanhui Kang, Leyu Lin*. Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback. to appear in KDD '24
+*Guipeng Xv, Xinyu Li, Ruobing Xie, Chen Lin, Chong Liu, Feng Xia, Zhanhui Kang, Leyu Lin*. Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback. KDD 2024:3645-3656 [pdf](https://XMUDM.github.io/files/Xv24Improving.pdf)  [code](https://github.com/XMUDM/DA-MRS)
 
-*Yiming Huang, Zhenghao Lin, Xiao Liu, Yeyun Gong, Shuai Lu, Fangyu Lei, Yaobo Liang, Yelong Shen, Chen Lin, Nan Duan, Weizhu Chen*. Competition-Level Problems are Effective LLM Evaluators. to appear in ACL `24
+*Yiming Huang, Zhenghao Lin, Xiao Liu, Yeyun Gong, Shuai Lu, Fangyu Lei, Yaobo Liang, Yelong Shen, Chen Lin, Nan Duan, Weizhu Chen*. Competition-Level Problems are Effective LLM Evaluators. ACL Findings 2024:13526–13544 [pdf](https://XMUDM.github.io/files/Huang24Competition.pdf)
 
-*Yang Li, Qi'Ao Zhao, Chen Lin, Jinsong Su, Zhilin Zhang*. Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems. SIGIR 2024: 667-676 
+*Yang Li, Qi'Ao Zhao, Chen Lin, Jinsong Su, Zhilin Zhang*. Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems. SIGIR 2024: 667-676 [pdf](https://XMUDM.github.io/files/Li24Who.pdf) [code](https://github.com/XMUDM/FETTLE)
 
 *Yang Li, Qiao Zhao, Chen Lin, Zhenjie Zhang, Xiaomin Zhu, Jinsong Su*. GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training. to appear in DASFAA '24
 
-*Yi Luo, Zhenghao Lin, YuHao Zhang, Jiashuo Sun, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong*. Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models. to appear in NAACL '24
+*Yi Luo, Zhenghao Lin, YuHao Zhang, Jiashuo Sun, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong*. Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models. NAACL 2024:1152–1197 [pdf](https://XMUDM.github.io/files/Luo24Ensuring.pdf) [code](https://github.com/XMUDM/Guide-Align)
 
-*Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan*. Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models. to appear in NAACL '24
+*Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan*. Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models. to appear in NAACL 2024:4074-4101 [pdf](https://XMUDM.github.io/files/findings-naacl.257.pdf)
 
 *Xingwei He, Zhenghao Lin, Yeyun Gong, A-Long Jin, Hang Zhang, Chen Lin, Jian Jiao, Siu Ming Yiu, Nan Duan, Weizhu Chen*. AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators. to appear in NAACL '24
 
 *Jiashuo Sun, Hang Zhang, Chen Lin, Xiangdong Su, Yeyun Gong, Jian Guo*. APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning. to appear in LREC-COLING '24 
 
-*Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li*. Breaking It Down: An In-depth Study of Index Advisors. to appear in VLDB '24
+*Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li*. Breaking It Down: An In-depth Study of Index Advisors. VLDB 2024:2405-2418 [pdf](https://XMUDM.github.io/files/Zhou24Breaking.pdf) [code](https://github.com/XMUDM/Index_EAB)
 
 *Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Heung-Yeung Shum, Jian Guo*. Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph. to appear in ICLR '24
 
