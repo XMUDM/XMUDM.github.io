@@ -5,8 +5,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+# 2025
+
+*MIngxuan Luo, Yang Li, Chen Lin*. Enhancing Sequential Recommendation with Global Diffusion. to appear in AAAI 2025
 
 # 2024
+
 *Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen*. Rho-1: Not All Tokens Are What You Need. to appear in NeurIPS 2024 [Best Paper Runnerup]
 
 *Qiwen Wang, Chen Lin, Wei Su, Liang Xiao, Xiangxiang Zeng*. Compound-Protein Interaction Prediction with Sparse Perturbation-Aware Attention. ICIC (LNBI 2) 2024: 72-83 [pdf](https://XMUDM.github.io/files/Wang24SPACPI.pdf) [code](https://github.com/xmudm/spacpi) [Best Paper Award](https://XMUDM.github.io/files/Wang24best.jpg)
