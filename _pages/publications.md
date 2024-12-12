@@ -21,27 +21,27 @@ author_profile: false
 
 *Yang Li, Qi'Ao Zhao, Chen Lin, Jinsong Su, Zhilin Zhang*. Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems. SIGIR 2024: 667-676 [pdf](https://XMUDM.github.io/files/Li24Who.pdf) [code](https://github.com/XMUDM/FETTLE)
 
-*Yang Li, Qiao Zhao, Chen Lin, Zhenjie Zhang, Xiaomin Zhu, Jinsong Su*. GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training. to appear in DASFAA '24 [pdf](https://arxiv.org/pdf/2311.13121) 
+*Yang Li, Qiao Zhao, Chen Lin, Zhenjie Zhang, Xiaomin Zhu, Jinsong Su*. GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training. to appear in DASFAA '24 [pdf](https://XMUDM.github.io/files/Li24GENET.pdf) 
 
 *Yi Luo, Zhenghao Lin, YuHao Zhang, Jiashuo Sun, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong*. Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models. NAACL 2024:1152–1197 [pdf](https://XMUDM.github.io/files/Luo24Ensuring.pdf) [code](https://github.com/XMUDM/Guide-Align)
 
 *Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan*. Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models. to appear in NAACL 2024:4074-4101 [pdf](https://XMUDM.github.io/files/findings-naacl.257.pdf) [code](https://github.com/XMUDM/Iter-CoT)
 
-*Xingwei He, Zhenghao Lin, Yeyun Gong, A-Long Jin, Hang Zhang, Chen Lin, Jian Jiao, Siu Ming Yiu, Nan Duan, Weizhu Chen*. AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators. NAACL '24: 165-190. [pdf](https://aclanthology.org/2024.naacl-industry.15.pdf) [code](https://github.com/NLPCode/AnnoLLM)
+*Xingwei He, Zhenghao Lin, Yeyun Gong, A-Long Jin, Hang Zhang, Chen Lin, Jian Jiao, Siu Ming Yiu, Nan Duan, Weizhu Chen*. AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators. NAACL '24: 165-190. [pdf](https://XMUDM.github.io/files/He24AnnoLLM.pdf) [code](https://github.com/NLPCode/AnnoLLM)
 
-*Jiashuo Sun, Hang Zhang, Chen Lin, Xiangdong Su, Yeyun Gong, Jian Guo*. APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning. LREC-COLING '24: 1370-1382. [pdf](https://aclanthology.org/2024.lrec-main.122.pdf)
+*Jiashuo Sun, Hang Zhang, Chen Lin, Xiangdong Su, Yeyun Gong, Jian Guo*. APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning. LREC-COLING '24: 1370-1382. [pdf](https://XMUDM.github.io/files/Sun24APOLLO.pdf)
 
 *Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li*. Breaking It Down: An In-depth Study of Index Advisors. VLDB 2024:2405-2418 [pdf](https://XMUDM.github.io/files/Zhou24Breaking.pdf) [code](https://github.com/XMUDM/Index_EAB)
 
-*Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Heung-Yeung Shum, Jian Guo*. Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph. to appear in ICLR '24 [pdf](https://arxiv.org/pdf/2307.07697) [code](https://github.com/IDEA-FinAI/ToG)
+*Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Heung-Yeung Shum, Jian Guo*. Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph. to appear in ICLR '24 [pdf](https://XMUDM.github.io/files/Sun24ICLR.pdf) [code](https://github.com/IDEA-FinAI/ToG)
 
-*Zijia Wang, Haoran Liu, Chen Lin, Zhifeng Bao, Guoliang Li, Tianqing Wang*. Leveraging Dynamic and Heterogeneous Workload Knowledge to Boost the Performance of Index Advisors. VLDB '24, 17(7): 1642-1654. [pdf](https://www.vldb.org/pvldb/vol17/p1642-lin.pdf) [code](https://github.com/XMUDM/BALANCE)
+*Zijia Wang, Haoran Liu, Chen Lin, Zhifeng Bao, Guoliang Li, Tianqing Wang*. Leveraging Dynamic and Heterogeneous Workload Knowledge to Boost the Performance of Index Advisors. VLDB '24, 17(7): 1642-1654. [pdf](https://XMUDM.github.io/files/Wang24VLDB.pdf) [code](https://github.com/XMUDM/BALANCE)
 
-*Yihang Zheng, Chen Lin, Xian Lyu, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. Robustness of Updatable Learning-based Index Advisors against Poisoning Attack. SIGMOD '24, 2(1): 1-26 [pdf](https://dl.acm.org/doi/pdf/10.1145/3639265) [code](https://github.com/XMUDM/PIPA)
+*Yihang Zheng, Chen Lin, Xian Lyu, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. Robustness of Updatable Learning-based Index Advisors against Poisoning Attack. SIGMOD '24, 2(1): 1-26 [pdf](https://XMUDM.github.io/files/Zheng24SIGMOD.pdf) [code](https://github.com/XMUDM/PIPA)
 
-*Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. TRAP: Tailored Robustness Assessment for Index Advisors via Adversarial Perturbation. ICDE 2024: 42-55 [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597867) [code](https://github.com/XMUDM/TRAP)
+*Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. TRAP: Tailored Robustness Assessment for Index Advisors via Adversarial Perturbation. ICDE 2024: 42-55 [pdf](https://XMUDM.github.io/files/Zhou24ICDE.pdf) [code](https://github.com/XMUDM/TRAP)
 
-*Yan Miao, Zhenyuan Sun, Chenjing Ma, Chen Lin, Guohua Wang, Chunxue Yang*. VirGrapher: A Graph-based Viral Identifier for Long Sequences from Metagenomes. Brief Bioinform. 2024 Jan 22;25(2):bbae036 [pdf](https://academic.oup.com/bib/article-pdf/25/2/bbae036/56659752/bbae036.pdf) 
+*Yan Miao, Zhenyuan Sun, Chenjing Ma, Chen Lin, Guohua Wang, Chunxue Yang*. VirGrapher: A Graph-based Viral Identifier for Long Sequences from Metagenomes. Brief Bioinform. 2024 Jan 22;25(2):bbae036 [pdf](https://XMUDM.github.io/files/Miao24VirGrapher.pdf) 
 
 # 2023
 *Ante Wang, Linfeng Song, Lifeng Jin, Junfeng Yao, Haitao Mi, Chen Lin, Jinsong Su, Dong Yu*, D2PSG: Multi-Party Dialogue Discourse Parsing as Sequence Generation, in IEEE/ACM Transactions on Audio, Speech, and Language Processing 2023(31):4004-4013 [pdf](https://XMUDM.github.io/files/Wang23D2PSG.pdf) [code](https://github.com/DeepLearnXMU/D2PSG)
@@ -78,13 +78,13 @@ _ _ _
 
 *Xinyi Liu, Wanxian Guan, Lianyun Li, Hui Li, Chen Lin, Xubin Li, Si Chen, Jian Xu, Hongbo Deng, Bo Zheng*. Pretraining Representations of Multi-modal Multi-query E-commerce Search. KDD 2022: 3429-3437 [pdf](https://XMUDM.github.io/files/Liu2022Pretraining.pdf) [code](https://github.com/XMUDM/MMsession)
 
-*Chen Lin, Dugang Liu, Yanghua Xiao, Hanghang Tong*. Spiral of Silence and Its Application in Recommender Systems. Transactions on Knowledge and Data Engineering 34(6): 2934-2947 [pdf](https://www.computer.org/csdl/journal/tk/5555/01/09158530/1m1eB9HLORa)  [code](https://github.com/XMUDM/TKDE19-Spiral-of-Silence)
+*Chen Lin, Dugang Liu, Yanghua Xiao, Hanghang Tong*. Spiral of Silence and Its Application in Recommender Systems. Transactions on Knowledge and Data Engineering 34(6): 2934-2947 [pdf](https://XMUDM.github.io/files/Lin22Spiral.pdf)  [code](https://github.com/XMUDM/TKDE19-Spiral-of-Silence)
 
 *Chen Lin, Junqing Zhuang, Jiadong Feng, Hui Li, Xuanhe Zhou, Guoliang Li*. Adaptive Code Learning for Spark Configuration Tuning. ICDE 2022: 1996-2008 [pdf](https://XMUDM.github.io/files/Lin2022Adaptive.pdf) [code](https://github.com/XMUDM/LITE)
 
 *Guipeng Xv, Chen Lin, Hui Li, Jinsong Su, Weiyao Ye and Yewang Chen*. Neutralizing Popularity Bias in Recommendation Models. SIGIR 2022: 2623-2628 [pdf](https://XMUDM.github.io/files/Xv2022Neutralizing.pdf) [code](https://github.com/XMUDM/NeutralizingBias)
 
-*Juan Ni, Zhenhua Huang, Yang Hu, Chen Lin*. A two-stage embedding model for recommendation with multimodal auxiliary information. Inf. Sci. 582: 22-37 [pdf](https://www.sciencedirect.com/science/article/pii/S0020025521009270/pdfft?md5=fb1579ca7aed8b0863624811756fd2c0&pid=1-s2.0-S0020025521009270-main.pdf) 
+*Juan Ni, Zhenhua Huang, Yang Hu, Chen Lin*. A two-stage embedding model for recommendation with multimodal auxiliary information. Inf. Sci. 582: 22-37 [pdf](https://XMUDM.github.io/files/Ni22Inf.pdf) 
 
 *Jiacheng Wang, Quan Zou*, Chen Lin*. A comparison of deep learning-based pre-processing and clustering approaches for single-cell RNA sequencing data. Briefings in Bioinformatics. 2022, 23(1): bbab345 [pdf](https://XMUDM.github.io/files/comparison_bib.pdf) 
 
@@ -94,7 +94,7 @@ _ _ _
 
 *Zhenhua Huang, Shunzhi Yang, Zheng Gong, Abdullah Abusorrah, Chen Lin, Zhen Huang*. Making Accurate Object Detection at the Edge: Review and New Approach. Artificial Intelligence Review. 55(2): 2245–2274, 2022.[pdf](https://link.springer.com/article/10.1007/s10462-021-10059-3) [code](https://github.com/yangshunzhi1994/CNN-RIS)
 
-*Zhenhua Huang, Yajun Liu, Choujun Zhan, Chen Lin, Weiwei Cai, Yunwen Chen*. A Novel Group Recommendation Model With Two-Stage Deep Learning. IEEE Transactions on Systems, Man, and Cybernetics: Systems. 52(9): 5853-5864, 2022. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9644586) 
+*Zhenhua Huang, Yajun Liu, Choujun Zhan, Chen Lin, Weiwei Cai, Yunwen Chen*. A Novel Group Recommendation Model With Two-Stage Deep Learning. IEEE Transactions on Systems, Man, and Cybernetics: Systems. 52(9): 5853-5864, 2022. [pdf](https://XMUDM.github.io/files/Huang22IEEE.pdf) 
 
 _ _ _
 
@@ -109,11 +109,11 @@ _ _ _
 *Xiaoqing Ru, Xiucai Ye, Tetsuya Sakurai, Quan Zou, Lei Xu, Chen Lin*. Current status and future prospects of drug-target interaction prediction. Briefings in Functional Genomics, elab031, https://doi.org/10.1093/bfgp/elab031 [pdf](https://XMUDM.github.io/files/current_bifg.pdf)
 
 
-*Shuai Fan, Chen Lin, Hui Li, Quan Zou*. News Popularity Prediction with Local-Global Long-Short-Term Embedding. WISE 2021: 79-93 [pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-91560-5.pdf) [code](https://github.com/XMUDM/NewsPopularityPrediction)
+*Shuai Fan, Chen Lin, Hui Li, Quan Zou*. News Popularity Prediction with Local-Global Long-Short-Term Embedding. WISE 2021: 79-93 [pdf](https://XMUDM.github.io/files/Fan21WISE.pdf) [code](https://github.com/XMUDM/NewsPopularityPrediction)
 
-*Si Chen, Yuqiu Qian, Hui Li, Chen Lin*. Sequential Recommendation in Online Games with Multiple Sequences, Tasks, and User Levels. SSTD 2021: 130-140 [pdf](https://dl.acm.org/doi/pdf/10.1145/3469830.3470906) 
+*Si Chen, Yuqiu Qian, Hui Li, Chen Lin*. Sequential Recommendation in Online Games with Multiple Sequences, Tasks, and User Levels. SSTD 2021: 130-140 [pdf](https://XMUDM.github.io/files/Chen21SSTD.pdf) 
 
-*Yun Liang, Jian Zhang, Mei-hua Wang, Chen Lin, Jun Xiao*. Multi-features guided robust visual tracking.  Multim. Tools Appl. 80(11):16367-16395 [pdf](https://link.springer.com/content/pdf/10.1007/s11042-020-08791-z.pdf) 
+*Yun Liang, Jian Zhang, Mei-hua Wang, Chen Lin, Jun Xiao*. Multi-features guided robust visual tracking.  Multim. Tools Appl. 80(11):16367-16395 [pdf](https://XMUDM.github.io/files/Liang21Multi-features.pdf) 
 
 *Chen Lin, Xinyi Liu, Guipeng Xv, Hui Li*. Mitigating Sentiment Bias for Recommender Systems. SIGIR 2021: 31-40 [pdf](https://XMUDM.github.io/files/Lin2021Mitigating.pdf)
 
@@ -121,7 +121,7 @@ _ _ _
 
 *Chen Lin, Zhichao Ouyang, Junqing Zhuang, Jianqiang Chen, Hui Li, Rongxin Wu*. Improving Code Summarization with Block-wise Abstract Syntax Tree Splitting. ICPC 2021: 184-195 [pdf](https://XMUDM.github.io/files/Lin21ICPC.pdf) [code](https://github.com/XMUDM/BASTS)
 
-*Yunsen Hong, Hui Li, Yanghua Xiao, Ryan McBride, Chen Lin*. SILVER: Generating Persuasive Chinese Product Pitch. PAKDD 2021: 652-663 [pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-75765-6.pdf)
+*Yunsen Hong, Hui Li, Yanghua Xiao, Ryan McBride, Chen Lin*. SILVER: Generating Persuasive Chinese Product Pitch. PAKDD 2021: 652-663 [pdf](https://XMUDM.github.io/files/Hong21PAKDD.pdf)
 
 _ _ _
 
@@ -132,11 +132,11 @@ _ _ _
 
 *Chen Lin, Si Chen, Hui Li, Yanghua Xiao, Lianyun Li, Qian Yang*. Attacking Recommender Systems with Augmented User Profiles. CIKM 2020: 855-864.[pdf](https://XMUDM.github.io/files/AUSH.pdf) [code](https://github.com/XMUDM/AUSH)
 
-*Wenqiang Chen, Lizhang Zhan, Yuanlong Ci, Minghua Yang, Chen Lin, Dugang Liu*. FLEN: Leveraging Field for Scalable CTR Prediction  DLP-KDD 2020 [pdf](https://arxiv.org/pdf/1911.04690) [code](https://github.com/aimetrics/jarvis)
+*Wenqiang Chen, Lizhang Zhan, Yuanlong Ci, Minghua Yang, Chen Lin, Dugang Liu*. FLEN: Leveraging Field for Scalable CTR Prediction  DLP-KDD 2020 [pdf](https://XMUDM.github.io/files/FLEN20Chen.pdf) [code](https://github.com/aimetrics/jarvis)
 
 *Yunsen Hong, Hui Li, Xiaoli Wang, Chen Lin*. DEAMER: a Deep Exposure-Aware Multimodal Content-based Recommendation System. DASFAA 2020: 621-637. [pdf](https://XMUDM.github.io/files/DEAMER.pdf) [code](https://github.com/XMUDM/Deamer)
 
-*Yuyou Weng, Xinyi Liu, Hui Li, Chen Lin, Yun Liang*. Drug target interaction prediction via multi-task co-attention. International Data Mining and Bioinformatics, 24(2):160-176. 2020 [pdf](https://www.inderscience.com/offer.php?id=110158) 
+*Yuyou Weng, Xinyi Liu, Hui Li, Chen Lin, Yun Liang*. Drug target interaction prediction via multi-task co-attention. International Data Mining and Bioinformatics, 24(2):160-176. 2020 [pdf](https://www.inderscienceonline.com/doi/pdf/10.1504/IJDMB.2020.110158) 
 
 _ _ _
 
