@@ -6,6 +6,13 @@ permalink: /year-archive/
 locale: "zh-CN"
 author_profile: false
 ---
+<h3>2024年度实验室交流会</h3>
+<img src="/image/2024_exchange.png" width="100%"  alt=""/>
+
+<h3>喜报：林正昊同学荣获NIPS 2024最佳论文亚军</h3>
+在刚刚结束的神经信息处理系统会议（NeurIPS 2024）中，厦门大学林琛教授实验室的研究生林正昊凭借其卓越的研究成果，获得了大会颁发的最佳论文亚军（Best Paper Runner-Up）。这是对他在科研领域不懈努力和创新精神的高度认可，也是我们实验室全体成员共同努力的结果。
+<img src="/image/nips.png" width="100%"  alt=""/>
+
 <h3>2024-2025秋季学期迎新活动</h3>
 <br>
 <img src="/image/24_hongpa.png" width="100%"  alt=""/>
