@@ -7,11 +7,13 @@ author_profile: false
 ---
 # 2025
 
+*Kehan Chen, Jiaxing Bai, Ying Wang, Chen Lin*. Joint User and Item Prototype Alignment for Cross-Platform Recommendation. to appear in DASFAA 2025
+
 *MIngxuan Luo, Yang Li, Chen Lin*. Enhancing Sequential Recommendation with Global Diffusion. to appear in AAAI 2025
 
 # 2024
 
-*Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen*. Rho-1: Not All Tokens Are What You Need. to appear in NeurIPS 2024 [Best Paper Runnerup]
+*Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen*. Not All Tokens Are What You Need for Pretraining. NeurIPS 2024 [pdf](https://XMUDM.github.io/files/Lin24Rho.pdf)[Best Paper Runnerup](https://XMUDM.github.io/files/Linbest.jpg)
 
 *Qiwen Wang, Chen Lin, Wei Su, Liang Xiao, Xiangxiang Zeng*. Compound-Protein Interaction Prediction with Sparse Perturbation-Aware Attention. ICIC (LNBI 2) 2024: 72-83 [pdf](https://XMUDM.github.io/files/Wang24SPACPI.pdf) [code](https://github.com/xmudm/spacpi) [Best Paper Award](https://XMUDM.github.io/files/Wang24best.jpg)
 
@@ -21,23 +23,23 @@ author_profile: false
 
 *Yang Li, Qi'Ao Zhao, Chen Lin, Jinsong Su, Zhilin Zhang*. Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems. SIGIR 2024: 667-676 [pdf](https://XMUDM.github.io/files/Li24Who.pdf) [code](https://github.com/XMUDM/FETTLE)
 
-*Yang Li, Qiao Zhao, Chen Lin, Zhenjie Zhang, Xiaomin Zhu, Jinsong Su*. GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training. to appear in DASFAA '24 [pdf](https://XMUDM.github.io/files/Li24GENET.pdf) 
+*Yang Li, Qiao Zhao, Chen Lin, Zhenjie Zhang, Xiaomin Zhu, Jinsong Su*. GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training. DASFAA 2024:343-352 [pdf](https://XMUDM.github.io/files/Li24GENET.pdf) 
 
 *Yi Luo, Zhenghao Lin, YuHao Zhang, Jiashuo Sun, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong*. Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models. NAACL 2024:1152–1197 [pdf](https://XMUDM.github.io/files/Luo24Ensuring.pdf) [code](https://github.com/XMUDM/Guide-Align)
 
-*Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan*. Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models. to appear in NAACL 2024:4074-4101 [pdf](https://XMUDM.github.io/files/findings-naacl.257.pdf) [code](https://github.com/XMUDM/Iter-CoT)
+*Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan*. Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models. NAACL 2024:4074-4101 [pdf](https://XMUDM.github.io/files/findings-naacl.257.pdf) [code](https://github.com/XMUDM/Iter-CoT)
 
-*Xingwei He, Zhenghao Lin, Yeyun Gong, A-Long Jin, Hang Zhang, Chen Lin, Jian Jiao, Siu Ming Yiu, Nan Duan, Weizhu Chen*. AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators. NAACL '24: 165-190. [pdf](https://XMUDM.github.io/files/He24AnnoLLM.pdf) [code](https://github.com/NLPCode/AnnoLLM)
+*Xingwei He, Zhenghao Lin, Yeyun Gong, A-Long Jin, Hang Zhang, Chen Lin, Jian Jiao, Siu Ming Yiu, Nan Duan, Weizhu Chen*. AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators. NAACL 2024: 165-190. [pdf](https://XMUDM.github.io/files/He24AnnoLLM.pdf) [code](https://github.com/NLPCode/AnnoLLM)
 
-*Jiashuo Sun, Hang Zhang, Chen Lin, Xiangdong Su, Yeyun Gong, Jian Guo*. APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning. LREC-COLING '24: 1370-1382. [pdf](https://XMUDM.github.io/files/Sun24APOLLO.pdf)
+*Jiashuo Sun, Hang Zhang, Chen Lin, Xiangdong Su, Yeyun Gong, Jian Guo*. APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning. LREC-COLING 2024: 1370-1382. [pdf](https://XMUDM.github.io/files/Sun24APOLLO.pdf)
 
 *Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li*. Breaking It Down: An In-depth Study of Index Advisors. VLDB 2024:2405-2418 [pdf](https://XMUDM.github.io/files/Zhou24Breaking.pdf) [code](https://github.com/XMUDM/Index_EAB)
 
-*Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Heung-Yeung Shum, Jian Guo*. Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph. to appear in ICLR '24 [pdf](https://XMUDM.github.io/files/Sun24ICLR.pdf) [code](https://github.com/IDEA-FinAI/ToG)
+*Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Heung-Yeung Shum, Jian Guo*. Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph. ICLR 2024 [pdf](https://XMUDM.github.io/files/Sun24ICLR.pdf) [code](https://github.com/IDEA-FinAI/ToG)
 
-*Zijia Wang, Haoran Liu, Chen Lin, Zhifeng Bao, Guoliang Li, Tianqing Wang*. Leveraging Dynamic and Heterogeneous Workload Knowledge to Boost the Performance of Index Advisors. VLDB '24, 17(7): 1642-1654. [pdf](https://XMUDM.github.io/files/Wang24VLDB.pdf) [code](https://github.com/XMUDM/BALANCE)
+*Zijia Wang, Haoran Liu, Chen Lin, Zhifeng Bao, Guoliang Li, Tianqing Wang*. Leveraging Dynamic and Heterogeneous Workload Knowledge to Boost the Performance of Index Advisors. VLDB 2024, 17(7): 1642-1654. [pdf](https://XMUDM.github.io/files/Wang24VLDB.pdf) [code](https://github.com/XMUDM/BALANCE)
 
-*Yihang Zheng, Chen Lin, Xian Lyu, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. Robustness of Updatable Learning-based Index Advisors against Poisoning Attack. SIGMOD '24, 2(1): 1-26 [pdf](https://XMUDM.github.io/files/Zheng24SIGMOD.pdf) [code](https://github.com/XMUDM/PIPA)
+*Yihang Zheng, Chen Lin, Xian Lyu, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. Robustness of Updatable Learning-based Index Advisors against Poisoning Attack. SIGMOD 2024, 2(1): 1-26 [pdf](https://XMUDM.github.io/files/Zheng24SIGMOD.pdf) [code](https://github.com/XMUDM/PIPA)
 
 *Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li, Tianqing Wang*. TRAP: Tailored Robustness Assessment for Index Advisors via Adversarial Perturbation. ICDE 2024: 42-55 [pdf](https://XMUDM.github.io/files/Zhou24ICDE.pdf) [code](https://github.com/XMUDM/TRAP)
 
