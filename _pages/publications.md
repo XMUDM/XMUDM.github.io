@@ -7,6 +7,12 @@ author_profile: false
 ---
 # 2025
 
+*Zhonghao Ren, Xiangxiang Zeng, Yi-Zhen Lao, Zhu-Hong You, Yifan Shang, Chen Lin*. Predicting rare drug-drug interaction events with dual-granular structure-adaptive and pair variational representation. Nature Communications. to appear
+
+*Yang Li, Junpeng Du, Chenzhan Wang, Zunlong Liu, Chen Lin*. CROSS: Feedback-Oriented Multi-Modal Dynamic Alignment in Recommendation Systems. ACM Transactions on Recommender Systems. Minor Revision
+
+*Yao Zou,Xuan Zou, Chen Lin, Chongxuan Han, Quan Zou*. Inference of functional differentiation of intestinal microbes between two wild zokor species based on metagenomics. Pest Manag Sci, 2024, 81: 1860-1872
+
 *Kehan Chen, Jiaxing Bai, Ying Wang, Chen Lin*. Joint User and Item Prototype Alignment for Cross-Platform Recommendation. to appear in DASFAA 2025
 
 *MIngxuan Luo, Yang Li, Chen Lin*. Enhancing Sequential Recommendation with Global Diffusion. to appear in AAAI 2025
