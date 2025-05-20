@@ -6,13 +6,16 @@ permalink: /publications/
 author_profile: false
 ---
 # 2025
+
+*Yi Luo, Linghang Shi, Yihao Li, Aobo Zhuang, Yeyun Gong, Ling Liu, Chen Lin*. From Intention To Implementation: Automating Biomedical Research via LLMs. to appear in SCIENCE CHINA Information Sciences
+
 *Qiwen Wang, Zhenghao Lin, Chen Lin, Junqi Yang, Zhenzhe Ying, Weiqiang Wang*. Innovative Image Fraud Detection with Cross-Sample Anomaly Analysis: The Power of LLMs. to appear in ACL 2025
 
 *Yihang Zheng, Bo Li, Zhenghao Lin, Yi Luo, Xuanhe Zhou, Chen Lin, Guoliang Li, Jinsong Su*.  Revolutionizing Database QA with Large Language Models: Comprehensive Benchmark and Evaluation. to appear in KDD 2025
 
 *Zhonghao Ren, Xiangxiang Zeng, Yi-Zhen Lao, Zhu-Hong You, Yifan Shang, Quan Zou, Chen Lin*. Predicting rare drug-drug interaction events with dual-granular structure-adaptive and pair variational representation. to appear in Nature Communications. 
 
-*Yang Li, Junpeng Du, Chenzhan Wang, Zunlong Liu, Chen Lin*. CROSS: Feedback-Oriented Multi-Modal Dynamic Alignment in Recommendation Systems. ACM Transactions on Recommender Systems. Minor Revision
+*Yang Li, Junpeng Du, Chenzhan Wang, Zunlong Liu, Chen Lin*. CROSS: Feedback-Oriented Multi-Modal Dynamic Alignment in Recommendation Systems. to appear in ACM Transactions on Recommender Systems. 
 
 *Yao Zou, Xuan Zou, Chen Lin, Chongxuan Han, Quan Zou*. Inference of functional differentiation of intestinal microbes between two wild zokor species based on metagenomics. Pest Manag Sci, 2024, 81: 1860-1872
 
