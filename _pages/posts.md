@@ -6,6 +6,9 @@ permalink: /year-archive/
 locale: "zh-CN"
 author_profile: false
 ---
+<h3>从实验室到职场：毕业师兄师姐的真心话</h3>
+<img src="/image/graduated_interview.jpg" width="90%"  alt=""/>
+
 <h3>2024年度实验室交流会</h3>
 <img src="/image/2024_exchange.png" width="90%"  alt=""/>
 
