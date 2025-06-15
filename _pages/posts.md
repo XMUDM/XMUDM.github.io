@@ -6,6 +6,14 @@ permalink: /year-archive/
 locale: "zh-CN"
 author_profile: false
 ---
+<h3>2025, 我们毕业啦！</h3>
+<img src="/image/2025_graduation.pdf" width="80%">
+
+<h3>2025 DASFAA</h3>
+DASFAA是数据库领域的知名国际学术会议。2025年第30届DASFAA大会于5月26日至29日在新加坡盛大举行。
+实验室成员陈可涵同学受邀参加了此次盛会，并在大会上展示了最新研究成果——《Joint User and Item Prototype Alignment for Cross-Platform Recommendation》。
+<img src="/image/kehan_dasfaa.jpg" width="100%">
+
 <h3>从实验室到职场：毕业师兄师姐的真心话</h3>
 <img src="/image/graduated_interview.jpg" width="90%"  alt=""/>
 
