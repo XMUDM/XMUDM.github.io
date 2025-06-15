@@ -7,7 +7,7 @@ locale: "zh-CN"
 author_profile: false
 ---
 <h3>2025, 我们毕业啦！</h3>
-<img src="/image/2025_graduation.pdf" width="80%">
+<img src="/image/2025_graduation.png" width="80%">
 
 <h3>2025 DASFAA</h3>
 DASFAA是数据库领域的知名国际学术会议。2025年第30届DASFAA大会于5月26日至29日在新加坡盛大举行。
