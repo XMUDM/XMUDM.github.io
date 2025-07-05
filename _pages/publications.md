@@ -6,6 +6,7 @@ permalink: /publications/
 author_profile: false
 ---
 # 2025
+Guipeng Xv, Xinyu Li, Yi Liu, Chen Lin, Xiaoli Wang. Unveiling the Impact of Multi-modal Content in Multi-modal Recommender Systems. to appear in ACM MM 2025. [pdf](https://XMUDM.github.io/files/ISOLATOR.pdf)
 
 *Yi Luo, Linghang Shi, Yihao Li, Aobo Zhuang, Yeyun Gong, Ling Liu, Chen Lin*. From Intention To Implementation: Automating Biomedical Research via LLMs. to appear in SCIENCE CHINA Information Sciences
 
