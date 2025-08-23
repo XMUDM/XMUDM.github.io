@@ -6,6 +6,11 @@ permalink: /year-archive/
 locale: "zh-CN"
 author_profile: false
 ---
+<h3>2025 KDD</h3>
+数据挖掘领域最重要的国际会议KDD于2025年8月3日至7日在加拿大多伦多盛大举行。
+实验室成员李波同学受邀参加了此次盛会，并在大会上展示了最新研究成果——《Revolutionizing Database Q&A with Large Language Models: Comprehensive Benchmark and Evaluation》。
+<img src="/image/25_KDD_libo.png" width="100%">
+
 <h3>2025, 我们毕业啦！</h3>
 <img src="/image/2025_graduation.png" width="80%">
 
@@ -71,3 +76,4 @@ KDD（ACM SIGKDD Conference on Knowledge Discovery and Data Mining）是数据�
 <h3>2022-2023春季学期</h3>
 <br>
 <img src="/image/shanhaibudao.jpg" width="100%"  alt=""/>
+
