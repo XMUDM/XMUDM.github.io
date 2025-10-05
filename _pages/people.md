@@ -118,6 +118,37 @@ author_profile: false
     </tr>
   </tbody>
 </table>
+
+<table border="0" style="margin-left: 50px" width="100%">
+  <tbody>
+    <tr>
+    	<td>
+		<div align="center">
+		<img src="/image/hanping.jpg" width="150" height="210" style="height: 210;" alt=""/> </div>
+		<div align="center" style="font-weight: bold">韩萍</div>
+		<div align="center">2025级</div>
+	  </td>
+      <td>
+		<div align="center">
+		<img src="/image/linlongkang.jpg" width="150" height="210" style="height: 210;" alt=""/> </div>
+		<div align="center" style="font-weight: bold">林龙康</div>
+		<div align="center">2025级</div>
+	  </td>
+       <td>
+		<div align="center">
+		<img src="/image/liuzunlong.jpg" width="150" height="210" style="height: 210;" alt=""/> </div>
+		<div align="center" style="font-weight: bold">刘尊龙</div>
+		<div align="center">2025级</div>
+	  </td>
+       <td>
+		<div align="center">
+		<img src="/image/wanghonghao.jpg" width="150" height="210" style="height: 210;" alt=""/> </div>
+		<div align="center" style="font-weight: bold">王鸿淏</div>
+		<div align="center">2025级</div>
+	  </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 <div>
@@ -245,6 +276,34 @@ author_profile: false
 		<div align="center" style="font-weight: bold">谢哲涵</div>
 		<div align="center">2024级</div>
 	  </td>
+    </tr>
+  </tbody>
+</table>
+
+<table  width="100%" border="0" style="margin-left: 50px">
+  <tbody>
+    <tr>
+      <td>
+		<div align="center">
+		  <img src="/image/dujunpeng.jpg" width="150" height="210" style="height: 210;"/>
+		</div>
+		<div align="center" style="font-weight: bold">杜俊鹏</div>
+		<div align="center">2025级</div>
+	  </td>
+	<td>
+	<div align="center">
+		<img src="/image/fangzhengnan.jpg" width="150" height="210" style="height: 210;"/>
+	</div>
+	<div align="center" style="font-weight: bold">方正楠</div>
+	<div align="center">2025级</div>
+	</td>
+    <td>
+		<div align="center">
+		  <img src="/image/wangchenzhan.jpg" width="150" height="210" style="height: 210;"/>
+		</div>
+		<div align="center" style="font-weight: bold">王晨绽</div>
+		<div align="center">2025级</div>
+	</td>
     </tr>
   </tbody>
 </table>
@@ -423,3 +482,4 @@ author_profile: false
     </tr>
   </tbody>
 </table>-->
+
