@@ -143,7 +143,7 @@ author_profile: false
        <td>
 		<div align="center">
 		<img src="/image/wanghonghao.jpg" width="150" height="210" style="height: 210;" alt=""/> </div>
-		<div align="center" style="font-weight: bold">王鸿淏</div>
+		<div align="center" style="font-weight: bold">王泓淏</div>
 		<div align="center">2025级</div>
 	  </td>
     </tr>
@@ -154,41 +154,6 @@ author_profile: false
 <div>
     <h3>Master Students</h3>
   
-<table width="100%" border="0" style="margin-left: 50px; margin-bottom: 20px">
-  <tbody>
-    <tr>
-      <td>
-		<div align="center">
-		  <img src="/image/wangzijia.jpg" width="150" height="210" style="height: 210;"/>
-		</div>
-		<div align="center" style="font-weight: bold">王子佳</div>
-		<div align="center">2022级</div>
-	  </td>
-	<td>
-		<div align="center">
-		  <img src="/image/zhengyihang.jpg" width="150" height="210" style="height: 210;"/>
-		</div>
-		<div align="center" style="font-weight: bold">郑祎航</div>
-		<div align="center">2022级</div>
-	  </td>
-		<td>
-		<div align="center">
-		  <img src="/image/liyang.jpg" width="150" height="210" style="height: 210;"/>
-		</div>
-		<div align="center" style="font-weight: bold">黎洋</div>
-		<div align="center">2022级</div>
-	  </td>
-				<td>
-		<div align="center">
-		  <img src="/image/linzhenghao.jpg" width="150" height="210" style="height: 210;"/>
-		</div>
-		<div align="center" style="font-weight: bold">林正昊</div>
-		<div align="center">2022级</div>
-	  </td>
-    </tr>
-  </tbody>
-</table>
-
 <table  width="100%" border="0" style="margin-left: 50px">
   <tbody>
     <tr>
@@ -482,4 +447,5 @@ author_profile: false
     </tr>
   </tbody>
 </table>-->
+
 
