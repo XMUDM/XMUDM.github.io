@@ -6,6 +6,12 @@ permalink: /year-archive/
 locale: "zh-CN"
 author_profile: false
 ---
+
+<h3>2025 ACM MM</h3>
+多媒体领域的全球顶级学术盛会——第33届ACM国际多媒体会议（The 33rd ACM International Conference on Multimedia, ACM MM 2025）于2025年10月27日至31日在爱尔兰都柏林盛大举行。
+实验室成员徐桂鹏同学受邀参加了此次盛会，并在大会上展示了最新研究成果——《Unveiling the Impact of Multi-modal Content in Multi-modal Recommender Systems》。
+<img src="/image/2025_ACM MM.jpg" width="100%">
+
 <div style="display: flex; flex-direction: column; align-items: center;">
   <h3 style="align-self: flex-start;">喜报：史凌航同学荣获福建省生物信息学学术研讨会墙报二等奖</h3>
   <div>
@@ -86,6 +92,7 @@ KDD（ACM SIGKDD Conference on Knowledge Discovery and Data Mining）是数据�
 <h3>2022-2023春季学期</h3>
 <br>
 <img src="/image/shanhaibudao.jpg" width="100%"  alt=""/>
+
 
 
 
