@@ -6,25 +6,27 @@ permalink: /publications/
 author_profile: false
 ---
 # 2025
-*Jiaxing Bai, Yichun Gao, Feng Zhou, Yushuang He, Chen Lin, Xiaobing Huang, Ying Wang*. CanCellCap: robust cancer cell capture across tissue types on single-cell RNA-seq data by multi-domain learning. BMC Biology 23(1):230
+*Jiaxing Bai, Yichun Gao, Feng Zhou, Yushuang He, Chen Lin, Xiaobing Huang, Ying Wang*. CanCellCap: robust cancer cell capture across tissue types on single-cell RNA-seq data by multi-domain learning. BMC Biology 23(1):230 [pdf](https://XMUDM.github.io/files/Bai25CanCellCap.pdf) 
 
-Guipeng Xv, Xinyu Li, Yi Liu, Chen Lin, Xiaoli Wang. Unveiling the Impact of Multi-modal Content in Multi-modal Recommender Systems. to appear in ACM MM 2025. [pdf](https://XMUDM.github.io/files/ISOLATOR.pdf)
+*Guipeng Xv, Xinyu Li, Yi Liu, Chen Lin, Xiaoli Wang*. Unveiling the Impact of Multi-modal Content in Multi-modal Recommender Systems. MM 2025: 6093-6102 [pdf](https://XMUDM.github.io/files/Xv25MMUnveiling.pdf) [code](https://github.com/XMUDM/ISOLATOR)
 
-*Yi Luo, Linghang Shi, Yihao Li, Aobo Zhuang, Yeyun Gong, Ling Liu, Chen Lin*. From Intention To Implementation: Automating Biomedical Research via LLMs. to appear in SCIENCE CHINA Information Sciences
+*Xian Lyu, Junbiao Zhang, Yihang Zheng, Guoliang Li, Chen Lin*. LLM4IA: Index Advising Via Large Language Models. CIKM 2025: 6673-6677 [pdf](https://XMUDM.github.io/files/Lyu25LLM4IA.pdf) [code](https://github.com/XMUDM/LLM4IA)) 
 
-*Qiwen Wang, Zhenghao Lin, Chen Lin, Junqi Yang, Zhenzhe Ying, Weiqiang Wang*. Innovative Image Fraud Detection with Cross-Sample Anomaly Analysis: The Power of LLMs. to appear in ACL 2025
+*Yi Luo, Linghang Shi, Yihao Li, Aobo Zhuang, Yeyun Gong, Ling Liu, Chen Lin*. From Intention To Implementation: Automating Biomedical Research via LLMs. SCIENCE CHINA Information Sciences 68, 170105 (2025) [pdf](https://XMUDM.github.io/files/Luo25BioResearcher.pdf) [code](https://github.com/XMUDM/BioResearcher)
 
-*Yihang Zheng, Bo Li, Zhenghao Lin, Yi Luo, Xuanhe Zhou, Chen Lin, Guoliang Li, Jinsong Su*.  Revolutionizing Database QA with Large Language Models: Comprehensive Benchmark and Evaluation. to appear in KDD 2025
+*Qiwen Wang, Junqi Yang, Zhenghao Lin, Zhenzhe Ying, Weiqiang Wang, Chen Lin*. Innovative Image Fraud Detection with Cross-Sample Anomaly Analysis: The Power of LLMs. ACL 2025:14058–14078  [pdf](https://XMUDM.github.io/files/Wang25CSIAD.pdf) [code](https://github.com/XMUDM/CSIAD)
 
-*Zhonghao Ren, Xiangxiang Zeng, Yi-Zhen Lao, Zhu-Hong You, Yifan Shang, Quan Zou, Chen Lin*. Predicting rare drug-drug interaction events with dual-granular structure-adaptive and pair variational representation. to appear in Nature Communications. 
+*Yihang Zheng, Bo Li, Zhenghao Lin, Yi Luo, Xuanhe Zhou, Chen Lin, Guoliang Li, Jinsong Su*. Revolutionizing Database Q&A with Large Language Models: Comprehensive Benchmark and Evaluation. KDD 2025: 5960-5971 [pdf](https://XMUDM.github.io/files/Zheng25DQABench.pdf) [code](https://github.com/XMUDM/DQABench)
 
-*Yang Li, Junpeng Du, Chenzhan Wang, Zunlong Liu, Chen Lin*. CROSS: Feedback-Oriented Multi-Modal Dynamic Alignment in Recommendation Systems. to appear in ACM Transactions on Recommender Systems. 
+*Zhonghao Ren, Xiangxiang Zeng, Yi-Zhen Lao, Zhu-Hong You, Yifan Shang, Quan Zou, Chen Lin*. Predicting rare drug-drug interaction events with dual-granular structure-adaptive and pair variational representation. Nature Communications 16, 3997 (2025) [pdf](https://XMUDM.github.io/files/Ren25RareDDI.pdf) 
+
+*Yang Li, Junpeng Du, Chenzhan Wang, Zunlong Liu, Chen Lin*. CROSS: Feedback-Oriented Multi-Modal Dynamic Alignment in Recommendation Systems. to appear in ACM Transactions on Recommender Systems [pdf](https://XMUDM.github.io/files/Li25CROSS.pdf) [code](https://github.com/XMUDM/FETTLE/tree/main/CROSS/)
 
 *Yao Zou, Xuan Zou, Chen Lin, Chongxuan Han, Quan Zou*. Inference of functional differentiation of intestinal microbes between two wild zokor species based on metagenomics. Pest Manag Sci, 2024, 81: 1860-1872
 
-*Kehan Chen, Jiaxing Bai, Ying Wang, Chen Lin*. Joint User and Item Prototype Alignment for Cross-Platform Recommendation. to appear in DASFAA 2025
+*Kehan Chen, Jiaxing Bai, Ying Wang, Chen Lin*. Joint User and Item Prototype Alignment for Cross-Platform Recommendation. to appear in DASFAA 2025 [code](https://github.com/XMUDM/UIPA)
 
-*MIngxuan Luo, Yang Li, Chen Lin*. Enhancing Sequential Recommendation with Global Diffusion. to appear in AAAI 2025
+*MIngxuan Luo, Yang Li, Chen Lin*. Enhancing Sequential Recommendation with Global Diffusion. AAAI 2025:12309-12318 [pdf](https://XMUDM.github.io/files/Luo25GlobalDiff.pdf) [code](https://github.com/XMUDM/GlobalDiff)
 
 # 2024
 
@@ -38,7 +40,7 @@ Guipeng Xv, Xinyu Li, Yi Liu, Chen Lin, Xiaoli Wang. Unveiling the Impact of Mul
 
 *Yang Li, Qi'Ao Zhao, Chen Lin, Jinsong Su, Zhilin Zhang*. Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems. SIGIR 2024: 667-676 [pdf](https://XMUDM.github.io/files/Li24Who.pdf) [code](https://github.com/XMUDM/FETTLE)
 
-*Yang Li, Qiao Zhao, Chen Lin, Zhenjie Zhang, Xiaomin Zhu, Jinsong Su*. GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training. DASFAA 2024:343-352 [pdf](https://XMUDM.github.io/files/Li24GENET.pdf) 
+*Yang Li, Qiao Zhao, Chen Lin, Zhenjie Zhang, Xiaomin Zhu, Jinsong Su*. GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training. DASFAA 2024:343-352 [pdf](https://XMUDM.github.io/files/Li24GENET.pdf) [code](https://github.com/XMUDM/GENET)
 
 *Yi Luo, Zhenghao Lin, YuHao Zhang, Jiashuo Sun, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong*. Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models. NAACL 2024:1152–1197 [pdf](https://XMUDM.github.io/files/Luo24Ensuring.pdf) [code](https://github.com/XMUDM/Guide-Align)
 
