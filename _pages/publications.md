@@ -10,7 +10,7 @@ author_profile: false
 
 *Guipeng Xv, Xinyu Li, Yi Liu, Chen Lin, Xiaoli Wang*. Unveiling the Impact of Multi-modal Content in Multi-modal Recommender Systems. MM 2025: 6093-6102 [pdf](https://XMUDM.github.io/files/Xv25MMUnveiling.pdf) [code](https://github.com/XMUDM/ISOLATOR)
 
-*Xian Lyu, Junbiao Zhang, Yihang Zheng, Guoliang Li, Chen Lin*. LLM4IA: Index Advising Via Large Language Models. CIKM 2025: 6673-6677 [pdf](https://XMUDM.github.io/files/Lyu25LLM4IA.pdf) [code](https://github.com/XMUDM/LLM4IA)) 
+*Xian Lyu, Junbiao Zhang, Yihang Zheng, Guoliang Li, Chen Lin*. LLM4IA: Index Advising Via Large Language Models. CIKM 2025: 6673-6677 [pdf](https://XMUDM.github.io/files/Lyu25LLM4IA.pdf) [code](https://github.com/XMUDM/LLM4IA)
 
 *Yi Luo, Linghang Shi, Yihao Li, Aobo Zhuang, Yeyun Gong, Ling Liu, Chen Lin*. From Intention To Implementation: Automating Biomedical Research via LLMs. SCIENCE CHINA Information Sciences 68, 170105 (2025) [pdf](https://XMUDM.github.io/files/Luo25BioResearcher.pdf) [code](https://github.com/XMUDM/BioResearcher)
 
