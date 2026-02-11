@@ -136,12 +136,6 @@ author_profile: false
 	  </td>
        <td>
 		<div align="center">
-		<img src="/image/liuzunlong.jpg" width="150" height="210" style="height: 210;" alt=""/> </div>
-		<div align="center" style="font-weight: bold">刘尊龙</div>
-		<div align="center">2025级</div>
-	  </td>
-       <td>
-		<div align="center">
 		<img src="/image/wanghonghao.jpg" width="150" height="210" style="height: 210;" alt=""/> </div>
 		<div align="center" style="font-weight: bold">王泓淏</div>
 		<div align="center">2025级</div>
@@ -447,5 +441,6 @@ author_profile: false
     </tr>
   </tbody>
 </table>-->
+
 
 
