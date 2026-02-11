@@ -5,6 +5,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+# 2026
+*Zhehan Xie, Ping Han, Chen Lin*. SparseDNA: Efficient Genomic Sequence Modeling via Sparse Experts in State Spaces. to appear in DASFAA 2026
+
+*Xinyu Li, Sishuo Chen, Guipeng Xv, Li Zhang, Mingxuan Luo, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Chen Lin*. Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights, and Approaches. to appear in WWW 2026
+
+*Mingxuan Luo#, Guipeng Xv, Sishuo Chen, Xinyu Li, Li Zhang, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Bo Zheng, Chen Lin*. Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights, and Solutions. to appear in WWW 2026 
+4. 
 # 2025
 *Jiaxing Bai, Yichun Gao, Feng Zhou, Yushuang He, Chen Lin, Xiaobing Huang, Ying Wang*. CanCellCap: robust cancer cell capture across tissue types on single-cell RNA-seq data by multi-domain learning. BMC Biology 23(1):230 [pdf](https://XMUDM.github.io/files/Bai25CanCellCap.pdf) 
 
