@@ -6,6 +6,8 @@ permalink: /publications/
 author_profile: false
 ---
 # 2026
+*Guipeng Xv, Yi Liu, Xinyu Li, Chen Lin*. Lightweight Denoising and Aligning for Multi-modal Recommender System. to appear in TOIS
+
 *Zhehan Xie, Ping Han, Chen Lin*. SparseDNA: Efficient Genomic Sequence Modeling via Sparse Experts in State Spaces. to appear in DASFAA 2026
 
 *Xinyu Li, Sishuo Chen, Guipeng Xv, Li Zhang, Mingxuan Luo, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Chen Lin*. Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights, and Approaches. to appear in WWW 2026
