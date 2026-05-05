@@ -6,6 +6,8 @@ permalink: /publications/
 author_profile: false
 ---
 # 2026
+*Lesong Wei, Shida He, Quan Zou, Chen Lin*, Harnessing Terminal Signal-Aware Deep Learning for Accurate Multi-Class Secreted Effector Identification, IEEE Journal of Biomedical and Health Informatics. to appear
+
 *Guipeng Xv, Yi Liu, Xinyu Li, Chen Lin*. Lightweight Denoising and Aligning for Multi-modal Recommender System. to appear in TOIS
 
 *Zhehan Xie, Ping Han, Chen Lin*. SparseDNA: Efficient Genomic Sequence Modeling via Sparse Experts in State Spaces. to appear in DASFAA 2026
