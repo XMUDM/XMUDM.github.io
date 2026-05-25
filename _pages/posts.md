@@ -6,6 +6,10 @@ permalink: /year-archive/
 locale: "zh-CN"
 author_profile: false
 ---
+<h3>2026 DASFAA</h3>
+数据库系统与高级应用领域的国际重要学术盛会——第31届国际数据库系统与高级应用会议（The 31st International Conference on Database Systems for Advanced Applications, DASFAA 2026）于2026年4月27日至30日在韩国济州岛盛大举行。
+实验室成员谢哲涵同学受邀参加了此次盛会，并在大会上展示了最新研究成果——《SparseDNA: Efficient Genomic Sequence Modeling via Sparse Experts in State Spaces》。
+<img src="/image/2026_DASFAA_zhxie.jpg" width="100%">
 
 <h3>2025 ACM MM</h3>
 多媒体领域的全球顶级学术盛会——第33届ACM国际多媒体会议（The 33rd ACM International Conference on Multimedia, ACM MM 2025）于2025年10月27日至31日在爱尔兰都柏林盛大举行。
