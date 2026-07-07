@@ -6,6 +6,15 @@ permalink: /publications/
 author_profile: false
 ---
 # 2026
+
+*Weihao Chen, Qiwen Wang, Zhiyi Li#, Songyang Li, Chen Lin, and Zhi-Liang Ji*. Quantitative and Interface‑Aware Prediction of Peptide–Protein Interactions by VITAL. Nature Machine Intelligence. to appear
+
+*Xian Lyu, Chen Lin, Yihang Zheng, Zhifeng Bao, Yiming Zhang, Guoliang Li*. GenIA: Generative Index Advisor for Dynamic Workloads and Data. TKDE. to appear
+
+*Bo Li, Chenzhan Wang, Longkang Lin, Guoliang Li, Chen Lin*. Automating End-to-End Hybrid Query Processing: Benchmark, Solution, and Insights. KDD 2026. to appear
+
+*Kehan Chen, Ping Han, Zhe Lin, Shang Gao, Xinyu Yang, Xiangxiang Zeng, Yeyun Gong, Zhi-liang Ji, Chen Lin*. GenART: Reading the Genome's Language with Adaptive “Words". Cell Reports Methods. to appear
+
 *Lesong Wei, Shida He, Quan Zou, Chen Lin*, Harnessing Terminal Signal-Aware Deep Learning for Accurate Multi-Class Secreted Effector Identification, IEEE Journal of Biomedical and Health Informatics. to appear
 
 *Guipeng Xv, Yi Liu, Xinyu Li, Chen Lin*. Lightweight Denoising and Aligning for Multi-modal Recommender System. to appear in TOIS
