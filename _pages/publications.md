@@ -7,7 +7,7 @@ author_profile: false
 ---
 # 2026
 
-*Weihao Chen, Qiwen Wang, Zhiyi Li#, Songyang Li, Chen Lin, and Zhi-Liang Ji*. Quantitative and Interface‑Aware Prediction of Peptide–Protein Interactions by VITAL. Nature Machine Intelligence. to appear
+*Weihao Chen, Qiwen Wang, Zhiyi Li#, Songyang Li, Chen Lin, and Zhi-Liang Ji*. Quantitative and Interface‑Aware Prediction of Peptide–Protein Interactions by VITAL. Nature Machine Intelligence. (https://rdcu.be/fAOjX)
 
 *Xian Lyu, Chen Lin, Yihang Zheng, Zhifeng Bao, Yiming Zhang, Guoliang Li*. GenIA: Generative Index Advisor for Dynamic Workloads and Data. TKDE. to appear
 
