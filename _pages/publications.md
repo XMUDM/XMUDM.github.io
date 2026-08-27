@@ -7,23 +7,31 @@ author_profile: false
 ---
 # 2026
 
-*Weihao Chen, Qiwen Wang, Zhiyi Li#, Songyang Li, Chen Lin, and Zhi-Liang Ji*. Quantitative and Interface‑Aware Prediction of Peptide–Protein Interactions by VITAL. Nature Machine Intelligence. (https://rdcu.be/fAOjX)
+*Yuntao Shi, Qiwen Wang, Shang Gao, Jing Zhou, Jinzhen Lin, Zhenzhe Ying, Xiangxiang Zeng, Chen Lin*. MedGuard: An LLM-Based Gatekeeper for Detecting Clinical Risks in Chinese Telemedicine Consultations. NPJ Digital Medicine. [pdf](https://www.nature.com/articles/s41746-026-03116-0) [code](https://github.com/XMUDM/MedGuard)
 
-*Xian Lyu, Chen Lin, Yihang Zheng, Zhifeng Bao, Yiming Zhang, Guoliang Li*. GenIA: Generative Index Advisor for Dynamic Workloads and Data. TKDE. to appear
+*Honghao Wang, Zunlong Liu, Xiangxiang Zeng, Zhaohui Song, Chen Lin*, Modeling dual-range atomic interactions with physicochemical principles for molecular force fields. Bioinformatics, 42(8): btag580 [pdf](https://academic.oup.com/bioinformatics/article/42/8/btag580/8756818) [code](https://github.com/XMUDM/GeoNet)
 
-*Bo Li, Chenzhan Wang, Longkang Lin, Guoliang Li, Chen Lin*. Automating End-to-End Hybrid Query Processing: Benchmark, Solution, and Insights. KDD 2026. to appear
+*Xiaoqing Lian, Pengsen Ma, Tengfeng Ma, Zhonghao Ren, Xibao Cai, Zhixiang Cheng, Bosheng Song, He Wang, Xiang Pan, Yangyang Chen, Sisi Yuan, Chen Lin*, Empowering chemical structures with biological insights for scalable phenotypic virtual screening, Bioinformatics, 42(8):btag517 [pdf](https://academic.oup.com/bioinformatics/article/42/8/btag517/8741838) [code](https://github.com/lian-xiao/DECODE)
 
-*Kehan Chen, Ping Han, Zhe Lin, Shang Gao, Xinyu Yang, Xiangxiang Zeng, Yeyun Gong, Zhi-liang Ji, Chen Lin*. GenART: Reading the Genome's Language with Adaptive “Words". Cell Reports Methods. to appear
+*Weihao Chen, Qiwen Wang, Zhiyi Li#, Songyang Li, Chen Lin, and Zhi-Liang Ji*. Quantitative and Interface‑Aware Prediction of Peptide–Protein Interactions by VITAL. Nature Machine Intelligence. [pdf](https://rdcu.be/fAOjX) [code](https://github.com/XMUDM/VITAL)
 
-*Lesong Wei, Shida He, Quan Zou, Chen Lin*, Harnessing Terminal Signal-Aware Deep Learning for Accurate Multi-Class Secreted Effector Identification, IEEE Journal of Biomedical and Health Informatics. to appear
+*Xian Lyu, Chen Lin, Yihang Zheng, Zhifeng Bao, Yiming Zhang, Guoliang Li*. GenIA: Generative Index Advisor for Dynamic Workloads and Data. TKDE 38(9): 5879-5895 [pdf](https://XMUDM.github.io/files/Lv26GenIA.pdf) [code](https://github.com/XMUDM/GenIA)
+
+*Bo Li, Chenzhan Wang, Longkang Lin, Guoliang Li, Chen Lin*. Automating End-to-End Hybrid Query Processing: Benchmark, Solution, and Insights. KDD 2026: 9302–9313 [pdf](https://XMUDM.github.io/files/Li26HQBench.pdf) [code](https://github.com/XMUDM/HyQBench)
+
+*Kehan Chen, Ping Han, Zhe Lin, Shang Gao, Xinyu Yang, Xiangxiang Zeng, Yeyun Gong, Zhi-liang Ji, Chen Lin*. GenART: Reading the Genome's Language with Adaptive “Words". Cell Reports Methods. [pdf](https://www.sciencedirect.com/science/article/pii/S2667237526002171) [code](https://github.com/XMUDM/GenART) 
+
+*Lesong Wei, Shida He, Quan Zou, Chen Lin*, Harnessing Terminal Signal-Aware Deep Learning for Accurate Multi-Class Secreted Effector Identification, IEEE Journal of Biomedical and Health Informatics. [pdf](https://XMUDM.github.io/files/Wei26Harnessing.pdf) [code](https://github.com/XMUDM/GenART)  
 
 *Guipeng Xv, Yi Liu, Xinyu Li, Chen Lin*. Lightweight Denoising and Aligning for Multi-modal Recommender System. to appear in TOIS
 
-*Zhehan Xie, Ping Han, Chen Lin*. SparseDNA: Efficient Genomic Sequence Modeling via Sparse Experts in State Spaces. to appear in DASFAA 2026
+*Shiyu Liu, Jinzhao Su, Changdong Wang, Shengli Sun, Chen Lin, Zhenhua Huang*. Adaptive Temporal Expert Routing with Hierarchical Wavelet Enhancement for Multi-Modal Sequential Recommendation. to appear in TOIS
 
-*Xinyu Li, Sishuo Chen, Guipeng Xv, Li Zhang, Mingxuan Luo, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Chen Lin*. Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights, and Approaches. to appear in WWW 2026
+*Zhehan Xie, Ping Han, Chen Lin*. SparseDNA: Efficient Genomic Sequence Modeling via Sparse Experts in State Spaces. DASFAA 2026: 69-82 [pdf](https://XMUDM.github.io/files/Xie26Dasfaa.pdf) [code](https://github.com/XMUDM/GenART)  
 
-*Mingxuan Luo, Guipeng Xv, Sishuo Chen, Xinyu Li, Li Zhang, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Bo Zheng, Chen Lin*. Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights, and Solutions. to appear in WWW 2026 
+*Xinyu Li, Sishuo Chen, Guipeng Xv, Li Zhang, Mingxuan Luo, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Chen Lin*. Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights, and Approaches. WWW 2026: 6299 - 6308 [pdf](https://XMUDM.github.io/files/Li26Delayed.pdf) [code](https://github.com/alimama-tech/OnlineGMV)
+
+*Mingxuan Luo, Guipeng Xv, Sishuo Chen, Xinyu Li, Li Zhang, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Bo Zheng, Chen Lin*. Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights, and Solutions. WWW 2026: 6252 - 6263 [pdf](https://XMUDM.github.io/files/Li26Delayed.pdf) [code](https://github.com/alimama-tech/NetCVR) 
 
 # 2025
 *Jiaxing Bai, Yichun Gao, Feng Zhou, Yushuang He, Chen Lin, Xiaobing Huang, Ying Wang*. CanCellCap: robust cancer cell capture across tissue types on single-cell RNA-seq data by multi-domain learning. BMC Biology 23(1):230 [pdf](https://XMUDM.github.io/files/Bai25CanCellCap.pdf) 
